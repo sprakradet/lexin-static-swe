@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="/lexintest.css">
+    <meta name="theme-color" content="#1c3f49">
+    <title>Lexin – skålar</title>
+
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, shrink-to-fit=no, viewport-fit=cover">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="canonical" href="https://lexin.se/">
+    <link rel="apple-touch-icon" href="/lexin-small.png">
+
+    <link rel="stylesheet" href="/settings.css">
+  </head>
+
+  <body>
+    <div id="inputDiv">
+      
+      <form id="theForm" action="/">
+	<div class="headerrow">
+	  <h1 class="heading">LEXIN</h1>
+
+	<button title="Visa inställningar" class="settingsIcon" type="submit">
+	  <div class="settingsBar1"></div>
+	  <div class="settingsBar2"></div>
+	  <div class="settingsBar3"></div>
+	</button>
+
+      </div>
+      <div id="settingsFormValues"><input type="hidden" name="word" value="skålar"><input type="hidden" name="settings" value="show"></div>
+      </form>
+      
+    </div>
+
+    <form id="theForm2" action="/" class="permbar">
+	  <div class="inputwrapper">
+	    <input name="word" dir="auto" placeholder="Sök..." value="" id="searchQuery" autofocus="" autocorrect="off" autocapitalize="none" autocomplete="off">
+	    <input type="submit">
+	  </div>
+    </form>
+
+    <div class="content">
+    <main>
+      <div class="resultsAndLemmasContainer">
+
+	<div id="resultsDiv" aria-live="polite"><div lang="sv" dir="ltr"><ul class="resultList" lang="sv" dir="ltr"><li><div><div class="wordInfo"><div class="wordInfoMain"><span class="matchingWord" lang="sv" dir="ltr">skålar </span><span class="pronunciation"><span class="phonetic clickableHeading makeClickableHeadingsStandOut"> [²skạ̊:lar] </span></span><span class="PoS clickableHeading makeClickableHeadingsStandOut">verb<br></span><span class="inflections" lang="sv" dir="ltr"><span><span> (skålar ·  </span></span><span class="cueWord">att</span><span><span>&nbsp;skåla · skålade ·  </span></span><span class="cueWord">har</span><span><span>&nbsp;skålat · – · skåla</span></span><span class="cueWord">!</span><span><span>) </span></span><br></span></div><div class="listenContainer"><div class="pronunciation"><div class="soundFiles"><button title="Lyssna på uttalet" type="button" lang="sv" dir="ltr"><div class="listenIcon"></div></button></div></div></div></div><div class="entryContent"><ol class="lexemeList"><li class="lexemeItem"><span lang="sv" dir="ltr" class="meaning"><span><span class="longClickLink">säger</span><span> </span><span class="longClickLink">skål</span></span></span><br><div class="referenceContainer"><div><span class="referenceHead clickableHeading makeClickableHeadingsStandOut" lang="sv" dir="ltr">Video: </span><a class="referenceInfo" href="http://lexin.nada.kth.se/lang/lexinanim/skalar.mp4" lang="sv" dir="ltr">Visa film</a><div class="picWrap" title="Titta på videoklippet" lang="sv" dir="ltr"><img src="video.svg" class="vidIcon"></div></div></div><div class="referenceContainer"><div><span class="referenceHead clickableHeading makeClickableHeadingsStandOut" lang="sv" dir="ltr">Video: </span><a class="referenceInfo" href="http://lexin.nada.kth.se/lang/lexinanim/skalar_vin.mp4" lang="sv" dir="ltr">Visa film</a><div class="picWrap" title="Titta på videoklippet" lang="sv" dir="ltr"><img src="video.svg" class="vidIcon"></div></div></div><div class="examples"><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Exempel</span><span>: </span></span><ul class="exampleList"><li><span lang="sv" dir="ltr"><span>de skålade för året som gått</span></span></li></ul></div><div class="gramInfo" lang="sv" dir="ltr"><div lang="sv" dir="ltr"><img src="/disclosure.svg" class="expandGraminfoIcon"><span class="graminfoExplanationText">&lt;ngn skålar (med ngn) (för ngn/ngt)&gt;</span><div style="display: none;" class="graminfoExplanation">ngn = en person, ngt = en sak<ul><li><span><span></span><span class="metavariable">någon</span><span> skålar</span><span></span></span></li><li><span><span></span><span class="metavariable">någon</span><span> skålar för </span><span class="metavariable">någon</span><span></span></span></li><li><span><span></span><span class="metavariable">någon</span><span> skålar för </span><span class="metavariable">något</span><span></span></span></li><li><span><span></span><span class="metavariable">någon</span><span> skålar med </span><span class="metavariable">någon</span><span></span></span></li><li><span><span></span><span class="metavariable">någon</span><span> skålar med </span><span class="metavariable">någon</span><span> för </span><span class="metavariable">någon</span><span></span></span></li><li><span><span></span><span class="metavariable">någon</span><span> skålar med </span><span class="metavariable">någon</span><span> för </span><span class="metavariable">något</span><span></span></span></li></ul></div></div></div></li></ol></div></div></li><li><div><div class="wordInfo"><div class="wordInfoMain"><span class="matchingWord" lang="sv" dir="ltr">skål  (1)</span><span class="pronunciation"><span class="phonetic clickableHeading makeClickableHeadingsStandOut"> [skå:l] </span></span><span class="PoS clickableHeading makeClickableHeadingsStandOut">substantiv<br></span><span class="inflections" lang="sv" dir="ltr"><span><span> (skål · skålen · skålar · skålarna) </span></span><br></span></div><div class="listenContainer"><div class="pronunciation"><div class="soundFiles"><button title="Lyssna på uttalet" type="button" lang="sv" dir="ltr"><div class="listenIcon"></div></button></div></div></div></div><div class="entryContent"><ol class="lexemeList"><li class="lexemeItem"><span lang="sv" dir="ltr" class="meaning"><span><span class="longClickLink">rundat</span><span> </span><span class="longClickLink">kärl</span><span> (</span><span class="longClickLink">för</span><span> </span><span class="longClickLink">uppläggning</span><span> </span><span class="longClickLink">av</span><span> </span><span class="longClickLink">mat</span><span> </span><span class="longClickLink">m.m</span><span>.)</span></span></span><br><div><div class="ill"><span lang="sv" dir="ltr" class="imageLink">Bild<div class="picWrap"><img src="/images.svg" class="picIcon" title="Öppna sida med bilder"></div></span><div style="display: block;"><div style="display: block; width: 100%; margin: 1em 0px; text-align: center;" class="inlineImage"><img src="/bilder/6/2/images/Bitmap22.png" style=""></div><div style="display: block; width: 100%;" class="inlineImage"><img src="/bilder/bildtema-6-2.png" style="width:100%;"></div><a href="https://bildtema.isof.se/bildetema/bildetema-html5/bildetema.html?version=swedish&amp;languages=swe&amp;page=6&amp;subpage=2">Visa i Bildteman</a></div></div></div><div class="compounds"><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Sammansättningar</span><span>: </span></span><ul class="compoundList"><li><span lang="sv" dir="ltr"><span>silver|skål</span></span></li><li><span lang="sv" dir="ltr"><span>socker|skål</span></span></li><li><span lang="sv" dir="ltr"><span>våg|skål</span></span></li></ul></div></li></ol></div></div></li><li><div><div class="wordInfo"><div class="wordInfoMain"><span class="matchingWord" lang="sv" dir="ltr">skål  (2)</span><span class="pronunciation"><span class="phonetic clickableHeading makeClickableHeadingsStandOut"> [skå:l] </span></span><span class="PoS clickableHeading makeClickableHeadingsStandOut">substantiv<br></span><span class="inflections" lang="sv" dir="ltr"><span><span> (skål · skålen · skålar · skålarna) </span></span><br></span></div><div class="listenContainer"><div class="pronunciation"><div class="soundFiles"><button title="Lyssna på uttalet" type="button" lang="sv" dir="ltr"><div class="listenIcon"></div></button></div></div></div></div><div class="entryContent"><ol class="lexemeList"><li class="lexemeItem"><span lang="sv" dir="ltr" class="meaning"><span><span class="longClickLink">hälsning</span><span> </span><span class="longClickLink">när</span><span> </span><span class="longClickLink">man</span><span> </span><span class="longClickLink">just</span><span> </span><span class="longClickLink">ska</span><span> </span><span class="longClickLink">dricka</span><span> </span><span class="longClickLink">alkohol</span><span> </span><span class="longClickLink">gemensamt</span></span></span><br><div class="examples"><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Exempel</span><span>: </span></span><ul class="exampleList"><li><span lang="sv" dir="ltr"><span>brudgummens far utbringade en skål</span></span></li></ul></div><ul class="cycleList"><li class="cycle"><span class="comment_se"><span class="comment" lang="sv" dir="ltr"><span><span>&lt;även som en sorts utrop&gt; </span></span></span></span><div class="examples"><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Exempel</span><span>: </span></span><ul class="exampleList"><li><span lang="sv" dir="ltr"><span>Skål för fortsatt gott samarbete!</span></span></li></ul></div></li></ul></li></ol></div></div></li></ul></div></div>
+      </div>
+    </main>
+
+    </div>
+
+
+    <div class="LexinExplanationsWrapper" id="LexinExplanationsWrapper">
+    </div>
+    <footer>
+    <ul>
+      <li> <a href="https://bildtema.isof.se/">Lexin bildtema</a>
+      </li><li> <a href="/lexinanim/">Lexin verbfilmer</a>
+      </li><li> <a href="/dialogteman/">Lexin dialogfilmer</a>
+      </li></ul>
+       <div class="isoflogowrapper">
+       <img alt="​&quot;Vit" logotyp="" isof"="" src="/logotyp-isof.svg">
+</div>
+<ul class="signoff">
+    <li>
+      Lexin publiceras av Institutet för språk och folkminnen.
+    </li>
+</ul>
+<ul class="lp-footer-menu">
+<li>
+<a class="normal" href="https://www.isof.se/vart-uppdrag/om-myndigheten">
+              <span>Om myndigheten Isof</span>                <svg aria-hidden="true" class="lp-icon">
+                  <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/lp-icons.svg#lp-chevron-right"></use>
+                </svg>            </a>
+</li>
+    <li>
+      <a href="https://www.isof.se/vart-uppdrag/om-myndigheten/om-webbplatsen/tillganglighetsredogorelse">Tillgänglighetsredogörelse <svg aria-hidden="true" class="lp-icon">
+                  <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/lp-icons.svg#lp-chevron-right"></use>
+                </svg></a>
+    </li>
+</ul>
+    </footer>
+    
+  
+
+</body>

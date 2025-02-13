@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="/lexintest.css">
+    <meta name="theme-color" content="#1c3f49">
+    <title>Lexin – öppnare</title>
+
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, shrink-to-fit=no, viewport-fit=cover">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="canonical" href="https://lexin.se/">
+    <link rel="apple-touch-icon" href="/lexin-small.png">
+
+    <link rel="stylesheet" href="/settings.css">
+  </head>
+
+  <body>
+    <div id="inputDiv">
+      
+      <form id="theForm" action="/">
+	<div class="headerrow">
+	  <h1 class="heading">LEXIN</h1>
+
+	<button title="Visa inställningar" class="settingsIcon" type="submit">
+	  <div class="settingsBar1"></div>
+	  <div class="settingsBar2"></div>
+	  <div class="settingsBar3"></div>
+	</button>
+
+      </div>
+      <div id="settingsFormValues"><input type="hidden" name="word" value="öppnare"><input type="hidden" name="settings" value="show"></div>
+      </form>
+      
+    </div>
+
+    <form id="theForm2" action="/" class="permbar">
+	  <div class="inputwrapper">
+	    <input name="word" dir="auto" placeholder="Sök..." value="" id="searchQuery" autofocus="" autocorrect="off" autocapitalize="none" autocomplete="off">
+	    <input type="submit">
+	  </div>
+    </form>
+
+    <div class="content">
+    <main>
+      <div class="resultsAndLemmasContainer">
+
+	<div id="resultsDiv" aria-live="polite"><div lang="sv" dir="ltr"><ul class="resultList" lang="sv" dir="ltr"><li><div><div class="wordInfo"><div class="wordInfoMain"><span class="matchingWord" lang="sv" dir="ltr">öppnare </span><span class="pronunciation"><span class="phonetic clickableHeading makeClickableHeadingsStandOut"> [²ọ̈p:nare] </span></span><span class="PoS clickableHeading makeClickableHeadingsStandOut">substantiv<br></span><span class="inflections" lang="sv" dir="ltr"><span><span> (öppnare · öppnaren · öppnare · öppnarna) </span></span><br></span></div><div class="listenContainer"><div class="pronunciation"><div class="soundFiles"><button title="Lyssna på uttalet" type="button" lang="sv" dir="ltr"><div class="listenIcon"></div></button></div></div></div></div><div class="entryContent"><ol class="lexemeList"><li class="lexemeItem"><span lang="sv" dir="ltr" class="meaning"><span><span class="longClickLink">redskap</span><span> </span><span class="longClickLink">som</span><span> </span><span class="longClickLink">öppnar</span><span> </span><span class="longClickLink">något</span></span></span><br><div class="compounds"><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Sammansättningar</span><span>: </span></span><ul class="compoundList"><li><span lang="sv" dir="ltr"><span>burk|öppnare</span></span></li><li><span lang="sv" dir="ltr"><span>flask|öppnare</span></span></li></ul></div></li></ol></div></div></li><li><div><div class="wordInfo"><div class="wordInfoMain"><span class="matchingWord" lang="sv" dir="ltr">öppen  (1)</span><img src="/submenuBlack.svg" class="expandResultsIcon"><span class="pronunciation notRelevant" style=""><span class="phonetic clickableHeading makeClickableHeadingsStandOut"> [²ọ̈p:en] </span></span><span class="PoS notRelevant clickableHeading makeClickableHeadingsStandOut" style="">adjektiv<br></span><span class=" notRelevant" lang="sv" dir="ltr" style=""><span><span> (öppen · öppet · öppna) </span></span><br></span></div><div class="listenContainer"><div class="pronunciation notRelevant" style=""><div class="soundFiles"><button title="Lyssna på uttalet" type="button" lang="sv" dir="ltr"><div class="listenIcon"></div></button></div></div></div></div><div class="entryContent"><ol class="lexemeList"><li class="lexemeItem"><span lang="sv" dir="ltr" class="meaning notRelevant" style=""><span><span class="longClickLink">inte</span><span> </span><span class="longClickLink">stängd</span><span> </span><span class="longClickLink">eller</span><span> </span><span class="longClickLink">låst</span><span> </span><span class="longClickLink">eller</span><span> </span><span class="longClickLink">täckt</span></span></span><br><div class="referenceContainer notRelevant" style=""><span class="antonym"><span class="referenceHead clickableHeading makeClickableHeadingsStandOut" lang="sv" dir="ltr">Motsats</span><span>: </span><span class="referenceInfo" lang="sv" dir="ltr"><a href="https://lexin.se/?&amp;word=stängd">stängd</a></span></span></div><div class="notRelevant" style=""><div class="ill"><span lang="sv" dir="ltr" class="imageLink">Bild<div class="picWrap"><img src="/images.svg" class="picIcon" title="Öppna sida med bilder"></div></span><div style="display: block;"><div style="display: block; width: 100%;" class="inlineImage"><img src="/bilder/bildtema-9-2.png" style="width:100%;"></div><a href="https://bildtema.isof.se/bildetema/bildetema-html5/bildetema.html?version=swedish&amp;languages=swe&amp;page=9&amp;subpage=2">Visa i Bildteman</a></div></div></div><div class="examples notRelevant" style=""><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Exempel</span><span>: </span></span><ul class="exampleList"><li class=" notRelevant" style=""><span lang="sv" dir="ltr"><span>en öppen dörr</span></span></li><li class=" notRelevant" style=""><span lang="sv" dir="ltr"><span>restaurangen är öppen</span></span></li><li class=" notRelevant" style=""><span lang="sv" dir="ltr"><span>ett öppet sår</span></span></li></ul></div><div lang="sv" dir="ltr" class="idioms notRelevant" style=""><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Uttryck</span><span>: </span></span><ul class="idiomList"><li class=" notRelevant" style=""><span class="idiomHead" lang="sv" dir="ltr"><span><span>(grälar) inför öppen ridå </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>(grälar) öppet, så att alla hör</span></span></span></li><li class=" notRelevant" style=""><span class="idiomHead" lang="sv" dir="ltr"><span><span>håller dörren öppen (för något) </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>är villig att kompromissa</span></span></span></li><li class=" notRelevant" style=""><span class="idiomHead" lang="sv" dir="ltr"><span><span>tar emot någon/något med öppna armar </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>tar emot någon/något med entusiasm</span></span></span></li><li class=" notRelevant" style=""><span class="idiomHead" lang="sv" dir="ltr"><span><span>öppen vård </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>vård utanför sjukhus eller anstalt</span></span></span></li><li class=" notRelevant" style=""><span class="idiomHead" lang="sv" dir="ltr"><span><span>öppet köp </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>en form av köp som ger köparen rätt att lämna tillbaka varan i affären inom en viss tid (och få pengarna tillbaka); det finns ingen lag som tvingar säljaren att gå med på öppet köp</span></span></span></li></ul></div></li></ol></div></div></li><li><div><div class="wordInfo"><div class="wordInfoMain"><span class="matchingWord" lang="sv" dir="ltr">öppen  (2)</span><img src="/submenuBlack.svg" class="expandResultsIcon"><span class="pronunciation notRelevant" style=""><span class="phonetic clickableHeading makeClickableHeadingsStandOut"> [²ọ̈p:en] </span></span><span class="PoS notRelevant clickableHeading makeClickableHeadingsStandOut" style="">adjektiv<br></span><span class=" notRelevant" lang="sv" dir="ltr" style=""><span><span> (öppen · öppet · öppna) </span></span><br></span></div><div class="listenContainer"><div class="pronunciation notRelevant" style=""><div class="soundFiles"><button title="Lyssna på uttalet" type="button" lang="sv" dir="ltr"><div class="listenIcon"></div></button></div></div></div></div><div class="entryContent"><ol class="lexemeList"><li class="lexemeItem"><span lang="sv" dir="ltr" class="meaning notRelevant" style=""><span><span class="longClickLink">tillgänglig</span><span> </span><span class="longClickLink">eller</span><span> </span><span class="longClickLink">synlig</span><span> </span><span class="longClickLink">för</span><span> </span><span class="longClickLink">alla</span><span>, </span><span class="longClickLink">allmän</span><span>, </span><span class="longClickLink">offentlig</span></span></span><br><div class="referenceContainer notRelevant" style=""><span class="antonym"><span class="referenceHead clickableHeading makeClickableHeadingsStandOut" lang="sv" dir="ltr">Motsats</span><span>: </span><span class="referenceInfo" lang="sv" dir="ltr"><a href="https://lexin.se/?&amp;word=privat">privat</a></span></span></div><div class="referenceContainer notRelevant" style=""><span class="antonym"><span class="referenceHead clickableHeading makeClickableHeadingsStandOut" lang="sv" dir="ltr">Motsats</span><span>: </span><span class="referenceInfo" lang="sv" dir="ltr"><a href="https://lexin.se/?&amp;word=dold">dold</a></span></span></div><div class="referenceContainer notRelevant" style=""><span class="antonym"><span class="referenceHead clickableHeading makeClickableHeadingsStandOut" lang="sv" dir="ltr">Motsats</span><span>: </span><span class="referenceInfo" lang="sv" dir="ltr"><a href="https://lexin.se/?&amp;word=otillgänglig">otillgänglig</a></span></span></div><div class="examples notRelevant" style=""><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Exempel</span><span>: </span></span><ul class="exampleList"><li class=" notRelevant" style=""><span lang="sv" dir="ltr"><span>det blev öppen strid på mötet</span></span></li><li class=" notRelevant" style=""><span lang="sv" dir="ltr"><span>chefen är alltid öppen för synpunkter från de anställda</span></span></li></ul></div><div class=" notRelevant" lang="sv" dir="ltr" style=""><div lang="sv" dir="ltr"><img src="/disclosure.svg" class="expandGraminfoIcon"><span class="graminfoExplanationText">&lt;ngn är öppen (för ngt)&gt;</span><div style="display: none;" class="graminfoExplanation">ngn = en person, ngt = en sak<ul><li><span><span></span><span class="metavariable">någon</span><span> är öppen</span><span></span></span></li><li><span><span></span><span class="metavariable">någon</span><span> är öppen för </span><span class="metavariable">något</span><span></span></span></li></ul></div></div></div><div lang="sv" dir="ltr" class="idioms notRelevant" style=""><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Uttryck</span><span>: </span></span><ul class="idiomList"><li class=" notRelevant" style=""><span class="idiomHead" lang="sv" dir="ltr"><span><span>ett öppet brev </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>ett brev som publiceras i en tidning</span></span></span></li><li class=" notRelevant" style=""><span class="idiomHead" lang="sv" dir="ltr"><span><span>har öppet hus </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>tar emot gäster som själva väljer när de vill komma</span></span></span></li><li class=" notRelevant" style=""><span class="idiomHead" lang="sv" dir="ltr"><span><span>öppen förskola </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>kommunal förskola dit föräldrar, dagbarnvårdare och barn i förskoleåldern går tillsammans för att träffas några timmar</span></span></span></li></ul></div></li></ol></div></div></li><li><div><div class="wordInfo"><div class="wordInfoMain"><span class="matchingWord" lang="sv" dir="ltr">öppen  (3)</span><img src="/submenuBlack.svg" class="expandResultsIcon"><span class="pronunciation notRelevant" style=""><span class="phonetic clickableHeading makeClickableHeadingsStandOut"> [²ọ̈p:en] </span></span><span class="PoS notRelevant clickableHeading makeClickableHeadingsStandOut" style="">adjektiv<br></span><span class=" notRelevant" lang="sv" dir="ltr" style=""><span><span> (öppen · öppet · öppna) </span></span><br></span></div><div class="listenContainer"><div class="pronunciation notRelevant" style=""><div class="soundFiles"><button title="Lyssna på uttalet" type="button" lang="sv" dir="ltr"><div class="listenIcon"></div></button></div></div></div></div><div class="entryContent"><ol class="lexemeList"><li class="lexemeItem"><span lang="sv" dir="ltr" class="meaning notRelevant" style=""><span><span class="longClickLink">inte</span><span> </span><span class="longClickLink">avgjord</span></span></span><br><div class="examples notRelevant" style=""><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Exempel</span><span>: </span></span><ul class="exampleList"><li class=" notRelevant" style=""><span lang="sv" dir="ltr"><span>det är en öppen fråga om klimatmålen kan hållas</span></span></li></ul></div></li></ol></div></div></li><li><div><div class="wordInfo"><div class="wordInfoMain"><span class="matchingWord" lang="sv" dir="ltr">öppen  (4)</span><img src="/submenuBlack.svg" class="expandResultsIcon"><span class="pronunciation notRelevant" style=""><span class="phonetic clickableHeading makeClickableHeadingsStandOut"> [²ọ̈p:en] </span></span><span class="PoS notRelevant clickableHeading makeClickableHeadingsStandOut" style="">adjektiv<br></span><span class=" notRelevant" lang="sv" dir="ltr" style=""><span><span> (öppen · öppet · öppna) </span></span><br></span></div><div class="listenContainer"><div class="pronunciation notRelevant" style=""><div class="soundFiles"><button title="Lyssna på uttalet" type="button" lang="sv" dir="ltr"><div class="listenIcon"></div></button></div></div></div></div><div class="entryContent"><ol class="lexemeList"><li class="lexemeItem"><span lang="sv" dir="ltr" class="meaning notRelevant" style=""><span><span class="longClickLink">uppriktig</span></span></span><br><div class="examples notRelevant" style=""><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Exempel</span><span>: </span></span><ul class="exampleList"><li class=" notRelevant" style=""><span lang="sv" dir="ltr"><span>han talade öppet om sina problem med spriten</span></span></li></ul></div><div class=" notRelevant" lang="sv" dir="ltr" style=""><div lang="sv" dir="ltr"><img src="/disclosure.svg" class="expandGraminfoIcon"><span class="graminfoExplanationText">&lt;ngn är öppen (med ngt)&gt;</span><div style="display: none;" class="graminfoExplanation">ngn = en person, ngt = en sak<ul><li><span><span></span><span class="metavariable">någon</span><span> är öppen</span><span></span></span></li><li><span><span></span><span class="metavariable">någon</span><span> är öppen med </span><span class="metavariable">något</span><span></span></span></li></ul></div></div></div></li></ol></div></div></li></ul></div></div>
+      </div>
+    </main>
+
+    </div>
+
+
+    <div class="LexinExplanationsWrapper" id="LexinExplanationsWrapper">
+    </div>
+    <footer>
+    <ul>
+      <li> <a href="https://bildtema.isof.se/">Lexin bildtema</a>
+      </li><li> <a href="/lexinanim/">Lexin verbfilmer</a>
+      </li><li> <a href="/dialogteman/">Lexin dialogfilmer</a>
+      </li></ul>
+       <div class="isoflogowrapper">
+       <img alt="​&quot;Vit" logotyp="" isof"="" src="/logotyp-isof.svg">
+</div>
+<ul class="signoff">
+    <li>
+      Lexin publiceras av Institutet för språk och folkminnen.
+    </li>
+</ul>
+<ul class="lp-footer-menu">
+<li>
+<a class="normal" href="https://www.isof.se/vart-uppdrag/om-myndigheten">
+              <span>Om myndigheten Isof</span>                <svg aria-hidden="true" class="lp-icon">
+                  <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/lp-icons.svg#lp-chevron-right"></use>
+                </svg>            </a>
+</li>
+    <li>
+      <a href="https://www.isof.se/vart-uppdrag/om-myndigheten/om-webbplatsen/tillganglighetsredogorelse">Tillgänglighetsredogörelse <svg aria-hidden="true" class="lp-icon">
+                  <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/lp-icons.svg#lp-chevron-right"></use>
+                </svg></a>
+    </li>
+</ul>
+    </footer>
+    
+  
+
+</body>

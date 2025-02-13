@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="/lexintest.css">
+    <meta name="theme-color" content="#1c3f49">
+    <title>Lexin – spel</title>
+
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, shrink-to-fit=no, viewport-fit=cover">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="canonical" href="https://lexin.se/">
+    <link rel="apple-touch-icon" href="/lexin-small.png">
+
+    <link rel="stylesheet" href="/settings.css">
+  </head>
+
+  <body>
+    <div id="inputDiv">
+      
+      <form id="theForm" action="/">
+	<div class="headerrow">
+	  <h1 class="heading">LEXIN</h1>
+
+	<button title="Visa inställningar" class="settingsIcon" type="submit">
+	  <div class="settingsBar1"></div>
+	  <div class="settingsBar2"></div>
+	  <div class="settingsBar3"></div>
+	</button>
+
+      </div>
+      <div id="settingsFormValues"><input type="hidden" name="word" value="spel"><input type="hidden" name="settings" value="show"></div>
+      </form>
+      
+    </div>
+
+    <form id="theForm2" action="/" class="permbar">
+	  <div class="inputwrapper">
+	    <input name="word" dir="auto" placeholder="Sök..." value="" id="searchQuery" autofocus="" autocorrect="off" autocapitalize="none" autocomplete="off">
+	    <input type="submit">
+	  </div>
+    </form>
+
+    <div class="content">
+    <main>
+      <div class="resultsAndLemmasContainer">
+
+	<div id="resultsDiv" aria-live="polite"><div lang="sv" dir="ltr"><ul class="resultList" lang="sv" dir="ltr"><li><div><div class="wordInfo"><div class="wordInfoMain"><span class="matchingWord" lang="sv" dir="ltr">spel  (1)</span><span class="pronunciation"><span class="phonetic clickableHeading makeClickableHeadingsStandOut"> [spe:l] </span></span><span class="PoS clickableHeading makeClickableHeadingsStandOut">substantiv<br></span><span class="inflections" lang="sv" dir="ltr"><span><span> (spel · spelet · spel · spelen) </span></span><br></span></div><div class="listenContainer"><div class="pronunciation"><div class="soundFiles"><button title="Lyssna på uttalet" type="button" lang="sv" dir="ltr"><div class="listenIcon"></div></button></div></div></div></div><div class="entryContent"><ol class="lexemeList"><li class="lexemeItem"><span lang="sv" dir="ltr" class="meaning"><span><span class="longClickLink">sysselsättning</span><span> (</span><span class="longClickLink">ofta</span><span> </span><span class="longClickLink">i</span><span> </span><span class="longClickLink">tävlingsform</span><span>) </span><span class="longClickLink">för</span><span> </span><span class="longClickLink">nöjes</span><span> </span><span class="longClickLink">skull</span><span> </span><span class="longClickLink">efter</span><span> </span><span class="longClickLink">vissa</span><span> </span><span class="longClickLink">regler</span></span></span><br><div class="compounds"><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Sammansättningar</span><span>: </span></span><ul class="compoundList"><li><span lang="sv" dir="ltr"><span>spel|pjäs</span></span></li><li><span lang="sv" dir="ltr"><span>spel|regel</span></span></li><li><span lang="sv" dir="ltr"><span>boll|spel</span></span></li><li><span lang="sv" dir="ltr"><span>kort|spel</span></span></li></ul></div><div class="examples"><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Exempel</span><span>: </span></span><ul class="exampleList"><li><span lang="sv" dir="ltr"><span>man måste följa spelets regler</span></span></li></ul></div><ul class="cycleList"><li class="cycle"><span class="comment_se"><span class="comment" lang="sv" dir="ltr"><span><span>&lt;även konkret&gt; </span></span></span></span><span class="meaning" lang="sv" dir="ltr"><span><span>uppsättning pjäser m.m. för ett spel</span></span></span><br><div class="examples"><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Exempel</span><span>: </span></span><ul class="exampleList"><li><span lang="sv" dir="ltr"><span>Hämta ett spel så tar vi ett parti schack!</span></span></li></ul></div></li></ul><div lang="sv" dir="ltr" class="idioms"><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Uttryck</span><span>: </span></span><ul class="idiomList"><li><span class="idiomHead" lang="sv" dir="ltr"><span><span>mycket står på spel </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>man riskerar mycket vid en eventuell förlust</span></span></span></li><li><span class="idiomHead" lang="sv" dir="ltr"><span><span>olympiska spel </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>olympiad</span></span></span></li><li><span class="idiomHead" lang="sv" dir="ltr"><span><span>sätter på spel </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>riskerar, äventyrar</span></span></span></li><li><span class="idiomHead" lang="sv" dir="ltr"><span><span>sätter ur spel </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>försätter ur funktion, oskadliggör</span></span></span></li><li><span class="idiomHead" lang="sv" dir="ltr"><span><span>tillfälligheternas spel </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>slumpens inverkan</span></span></span></li></ul></div></li></ol></div></div></li><li><div><div class="wordInfo"><div class="wordInfoMain"><span class="matchingWord" lang="sv" dir="ltr">spel  (2)</span><span class="pronunciation"><span class="phonetic clickableHeading makeClickableHeadingsStandOut"> [spe:l] </span></span><span class="PoS clickableHeading makeClickableHeadingsStandOut">substantiv<br></span><span class="inflections" lang="sv" dir="ltr"><span><span> (spel · spelet · spel · spelen) </span></span><br></span></div><div class="listenContainer"><div class="pronunciation"><div class="soundFiles"><button title="Lyssna på uttalet" type="button" lang="sv" dir="ltr"><div class="listenIcon"></div></button></div></div></div></div><div class="entryContent"><ol class="lexemeList"><li class="lexemeItem"><span lang="sv" dir="ltr" class="meaning"><span><span class="longClickLink">musik</span><span> </span><span class="longClickLink">på</span><span> </span><span class="longClickLink">instrument</span><span>&nbsp;(</span><span class="longClickLink">2</span><span>)</span></span></span><br><div class="compounds"><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Sammansättningar</span><span>: </span></span><ul class="compoundList"><li><span lang="sv" dir="ltr"><span>gitarr|spel</span></span></li><li><span lang="sv" dir="ltr"><span>piano|spel</span></span></li></ul></div><div class="examples"><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Exempel</span><span>: </span></span><ul class="exampleList"><li><span lang="sv" dir="ltr"><span>sång och spel</span></span></li></ul></div></li></ol></div></div></li></ul></div></div>
+      </div>
+    </main>
+
+    </div>
+
+
+    <div class="LexinExplanationsWrapper" id="LexinExplanationsWrapper">
+    </div>
+    <footer>
+    <ul>
+      <li> <a href="https://bildtema.isof.se/">Lexin bildtema</a>
+      </li><li> <a href="/lexinanim/">Lexin verbfilmer</a>
+      </li><li> <a href="/dialogteman/">Lexin dialogfilmer</a>
+      </li></ul>
+       <div class="isoflogowrapper">
+       <img alt="​&quot;Vit" logotyp="" isof"="" src="/logotyp-isof.svg">
+</div>
+<ul class="signoff">
+    <li>
+      Lexin publiceras av Institutet för språk och folkminnen.
+    </li>
+</ul>
+<ul class="lp-footer-menu">
+<li>
+<a class="normal" href="https://www.isof.se/vart-uppdrag/om-myndigheten">
+              <span>Om myndigheten Isof</span>                <svg aria-hidden="true" class="lp-icon">
+                  <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/lp-icons.svg#lp-chevron-right"></use>
+                </svg>            </a>
+</li>
+    <li>
+      <a href="https://www.isof.se/vart-uppdrag/om-myndigheten/om-webbplatsen/tillganglighetsredogorelse">Tillgänglighetsredogörelse <svg aria-hidden="true" class="lp-icon">
+                  <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/lp-icons.svg#lp-chevron-right"></use>
+                </svg></a>
+    </li>
+</ul>
+    </footer>
+    
+  
+
+</body>

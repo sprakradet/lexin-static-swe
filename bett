@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="/lexintest.css">
+    <meta name="theme-color" content="#1c3f49">
+    <title>Lexin – bett</title>
+
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, shrink-to-fit=no, viewport-fit=cover">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="canonical" href="https://lexin.se/">
+    <link rel="apple-touch-icon" href="/lexin-small.png">
+
+    <link rel="stylesheet" href="/settings.css">
+  </head>
+
+  <body>
+    <div id="inputDiv">
+      
+      <form id="theForm" action="/">
+	<div class="headerrow">
+	  <h1 class="heading">LEXIN</h1>
+
+	<button title="Visa inställningar" class="settingsIcon" type="submit">
+	  <div class="settingsBar1"></div>
+	  <div class="settingsBar2"></div>
+	  <div class="settingsBar3"></div>
+	</button>
+
+      </div>
+      <div id="settingsFormValues"><input type="hidden" name="word" value="bett"><input type="hidden" name="settings" value="show"></div>
+      </form>
+      
+    </div>
+
+    <form id="theForm2" action="/" class="permbar">
+	  <div class="inputwrapper">
+	    <input name="word" dir="auto" placeholder="Sök..." value="" id="searchQuery" autofocus="" autocorrect="off" autocapitalize="none" autocomplete="off">
+	    <input type="submit">
+	  </div>
+    </form>
+
+    <div class="content">
+    <main>
+      <div class="resultsAndLemmasContainer">
+
+	<div id="resultsDiv" aria-live="polite"><div lang="sv" dir="ltr"><ul class="resultList" lang="sv" dir="ltr"><li><div><div class="wordInfo"><div class="wordInfoMain"><span class="matchingWord" lang="sv" dir="ltr">bett (2) (1)</span><span class="pronunciation"><span class="phonetic clickableHeading makeClickableHeadingsStandOut"> [bet:] </span></span><span class="PoS clickableHeading makeClickableHeadingsStandOut">substantiv<br></span><span class="inflections" lang="sv" dir="ltr"><span><span> (bett · bettet · bett · betten) </span></span><br></span></div><div class="listenContainer"><div class="pronunciation"><div class="soundFiles"><button title="Lyssna på uttalet" type="button" lang="sv" dir="ltr"><div class="listenIcon"></div></button></div></div></div></div><div class="entryContent"><ol class="lexemeList"><li class="lexemeItem"><span lang="sv" dir="ltr" class="meaning"><span><span class="longClickLink">stick</span><span> </span><span class="longClickLink">av</span><span> </span><span class="longClickLink">en</span><span> </span><span class="longClickLink">insekt</span><span> </span><span class="longClickLink">e.d</span><span>.; </span><span class="longClickLink">sår</span><span> </span><span class="longClickLink">efter</span><span> </span><span class="longClickLink">hugg</span><span> </span><span class="longClickLink">av</span><span> </span><span class="longClickLink">tänder</span></span></span><br><div class="compounds"><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Sammansättningar</span><span>: </span></span><ul class="compoundList"><li><span lang="sv" dir="ltr"><span>hund|bett</span></span></li><li><span lang="sv" dir="ltr"><span>mygg|bett</span></span></li></ul></div></li></ol></div></div></li><li><div><div class="wordInfo"><div class="wordInfoMain"><span class="matchingWord" lang="sv" dir="ltr">bett (2) (2)</span><span class="pronunciation"><span class="phonetic clickableHeading makeClickableHeadingsStandOut"> [bet:] </span></span><span class="PoS clickableHeading makeClickableHeadingsStandOut">substantiv<br></span><span class="inflections" lang="sv" dir="ltr"><span><span> (bett · bettet · bett · betten) </span></span><br></span></div><div class="listenContainer"><div class="pronunciation"><div class="soundFiles"><button title="Lyssna på uttalet" type="button" lang="sv" dir="ltr"><div class="listenIcon"></div></button></div></div></div></div><div class="entryContent"><ol class="lexemeList"><li class="lexemeItem"><span lang="sv" dir="ltr" class="meaning"><span><span class="longClickLink">det</span><span> </span><span class="longClickLink">som</span><span> </span><span class="longClickLink">någon</span><span> </span><span class="longClickLink">biter</span><span> </span><span class="longClickLink">om</span><span> </span><span class="longClickLink">för</span><span> </span><span class="longClickLink">att</span><span> </span><span class="longClickLink">äta</span><span>, </span><span class="longClickLink">tugga</span></span></span><br><div class="examples"><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Exempel</span><span>: </span></span><ul class="exampleList"><li><span lang="sv" dir="ltr"><span>hon tog ett bett på smörgåsen</span></span></li></ul></div></li></ol></div></div></li><li><div><div class="wordInfo"><div class="wordInfoMain"><span class="matchingWord" lang="sv" dir="ltr">bett (2) (3)</span><span class="pronunciation"><span class="phonetic clickableHeading makeClickableHeadingsStandOut"> [bet:] </span></span><span class="PoS clickableHeading makeClickableHeadingsStandOut">substantiv<br></span><span class="inflections" lang="sv" dir="ltr"><span><span> (bett · bettet · bett · betten) </span></span><br></span></div><div class="listenContainer"><div class="pronunciation"><div class="soundFiles"><button title="Lyssna på uttalet" type="button" lang="sv" dir="ltr"><div class="listenIcon"></div></button></div></div></div></div><div class="entryContent"><ol class="lexemeList"><li class="lexemeItem"><span lang="sv" dir="ltr" class="meaning"><span><span class="longClickLink">uppsättning</span><span> </span><span class="longClickLink">tänder</span></span></span><br><div class="compounds"><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Sammansättningar</span><span>: </span></span><ul class="compoundList"><li><span lang="sv" dir="ltr"><span>under|bett</span></span></li><li><span lang="sv" dir="ltr"><span>över|bett</span></span></li></ul></div><div class="examples"><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Exempel</span><span>: </span></span><ul class="exampleList"><li><span lang="sv" dir="ltr"><span>hästens bett</span></span></li></ul></div><div lang="sv" dir="ltr" class="idioms"><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Uttryck</span><span>: </span></span><ul class="idiomList"><li><span class="idiomHead" lang="sv" dir="ltr"><span><span>är på bettet </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>är beredd på strid, är alert</span></span></span></li></ul></div></li></ol></div></div></li><li><div><div class="wordInfo"><div class="wordInfoMain"><span class="matchingWord" lang="sv" dir="ltr">bett (1)</span><span class="pronunciation"><span class="phonetic clickableHeading makeClickableHeadingsStandOut"> [bet:] </span></span><span class="PoS clickableHeading makeClickableHeadingsStandOut">verb<br></span><div class="referenceContainer"><span class="referenceHead clickableHeading makeClickableHeadingsStandOut" lang="sv" dir="ltr">Se</span><span>: </span><span class="referenceInfo" lang="sv" dir="ltr"><a href="https://lexin.se/?&amp;word=ber">ber</a></span></div></div><div class="listenContainer"><div class="pronunciation"><div class="soundFiles"><button title="Lyssna på uttalet" type="button" lang="sv" dir="ltr"><div class="listenIcon"></div></button></div></div></div></div><div class="entryContent"></div></div></li><li><div><div class="wordInfo"><div class="wordInfoMain"><span class="matchingWord" lang="sv" dir="ltr">ber  (1)</span><span class="pronunciation"><span class="phonetic clickableHeading makeClickableHeadingsStandOut"> [be:r] </span></span><span class="PoS clickableHeading makeClickableHeadingsStandOut">verb<br></span><span class="inflections" lang="sv" dir="ltr"><span><span> (ber ·  </span></span><span class="cueWord">att</span><span><span>&nbsp;be · bad ·  </span></span><span class="cueWord">har</span><span><span>&nbsp;bett ·  </span></span><span class="cueWord">är</span><span><span>&nbsp;bedd · be</span></span><span class="cueWord">!</span><span><span>) </span></span><br></span></div><div class="listenContainer"><div class="pronunciation"><div class="soundFiles"><button title="Lyssna på uttalet" type="button" lang="sv" dir="ltr"><div class="listenIcon"></div></button></div></div></div></div><div class="entryContent"><ol class="lexemeList"><li class="lexemeItem"><span lang="sv" dir="ltr" class="meaning"><span><span class="longClickLink">begär</span><span> (</span><span class="longClickLink">på</span><span> </span><span class="longClickLink">ett</span><span> </span><span class="longClickLink">ödmjukt</span><span> </span><span class="longClickLink">sätt</span><span>)</span></span></span><br><div class="examples"><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Exempel</span><span>: </span></span><ul class="exampleList"><li><span lang="sv" dir="ltr"><span>Om du inte klarar det själv så får du be om hjälp!</span></span></li><li><span lang="sv" dir="ltr"><span>han bad att få en kopp kaffe till</span></span></li><li><span lang="sv" dir="ltr"><span>hon bad honom flytta på bilen</span></span></li></ul></div><div class="gramInfo" lang="sv" dir="ltr"><div lang="sv" dir="ltr"><img src="/disclosure.svg" class="expandGraminfoIcon"><span class="graminfoExplanationText">&lt;ngn ber (ngn) om ngt/SATS, ngn ber (ngn) (att+) VERB&gt;</span><div style="display: none;" class="graminfoExplanation">ngn = en person, ngt = en sak<ul><li><span><span></span><span class="metavariable">någon</span><span> ber om </span><span class="metavariable">något</span><span></span></span></li><li><span><span></span><span class="metavariable">någon</span><span> ber om </span><span class="metavariable">sats</span><span></span></span></li><li><span><span></span><span class="metavariable">någon</span><span> ber </span><span class="metavariable">någon</span><span> om </span><span class="metavariable">något</span><span></span></span></li><li><span><span></span><span class="metavariable">någon</span><span> ber </span><span class="metavariable">någon</span><span> om </span><span class="metavariable">sats</span><span></span></span></li><li><span><span></span><span class="metavariable">någon</span><span> ber </span><span class="metavariable">verb</span><span></span></span></li><li><span><span></span><span class="metavariable">någon</span><span> ber att + </span><span class="metavariable">verb</span><span></span></span></li><li><span><span></span><span class="metavariable">någon</span><span> ber </span><span class="metavariable">någon</span><span> </span><span class="metavariable">verb</span><span></span></span></li><li><span><span></span><span class="metavariable">någon</span><span> ber </span><span class="metavariable">någon</span><span> att + </span><span class="metavariable">verb</span><span></span></span></li></ul></div></div></div><div lang="sv" dir="ltr" class="idioms"><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Uttryck</span><span>: </span></span><ul class="idiomList"><li><span class="idiomHead" lang="sv" dir="ltr"><span><span>ber om lov </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>frågar om man får</span></span></span></li></ul></div></li></ol></div></div></li><li><div><div class="wordInfo"><div class="wordInfoMain"><span class="matchingWord" lang="sv" dir="ltr">ber  (2)</span><span class="pronunciation"><span class="phonetic clickableHeading makeClickableHeadingsStandOut"> [be:r] </span></span><span class="PoS clickableHeading makeClickableHeadingsStandOut">verb<br></span><span class="inflections" lang="sv" dir="ltr"><span><span> (ber ·  </span></span><span class="cueWord">att</span><span><span>&nbsp;be · bad ·  </span></span><span class="cueWord">har</span><span><span>&nbsp;bett ·  </span></span><span class="cueWord">är</span><span><span>&nbsp;bedd · be</span></span><span class="cueWord">!</span><span><span>) </span></span><br></span></div><div class="listenContainer"><div class="pronunciation"><div class="soundFiles"><button title="Lyssna på uttalet" type="button" lang="sv" dir="ltr"><div class="listenIcon"></div></button></div></div></div></div><div class="entryContent"><ol class="lexemeList"><li class="lexemeItem"><span lang="sv" dir="ltr" class="meaning"><span><span class="longClickLink">anropar</span><span> </span><span class="longClickLink">Gud</span><span>, </span><span class="longClickLink">förrättar</span><span> </span><span class="longClickLink">bön</span></span></span><br><div class="examples"><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Exempel</span><span>: </span></span><ul class="exampleList"><li><span lang="sv" dir="ltr"><span>hon bad till Gud varje kväll</span></span></li><li><span lang="sv" dir="ltr"><span>de bad bordsbön före maten</span></span></li></ul></div><div class="gramInfo" lang="sv" dir="ltr"><div lang="sv" dir="ltr"><img src="/disclosure.svg" class="expandGraminfoIcon"><span class="graminfoExplanationText">&lt;ngn ber (ngt) (till ngn)&gt;</span><div style="display: none;" class="graminfoExplanation">ngn = en person, ngt = en sak<ul><li><span><span></span><span class="metavariable">någon</span><span> ber</span><span></span></span></li><li><span><span></span><span class="metavariable">någon</span><span> ber till </span><span class="metavariable">någon</span><span></span></span></li><li><span><span></span><span class="metavariable">någon</span><span> ber </span><span class="metavariable">något</span><span></span></span></li><li><span><span></span><span class="metavariable">någon</span><span> ber </span><span class="metavariable">något</span><span> till </span><span class="metavariable">någon</span><span></span></span></li></ul></div></div></div></li></ol></div></div></li></ul></div></div>
+      </div>
+    </main>
+
+    </div>
+
+
+    <div class="LexinExplanationsWrapper" id="LexinExplanationsWrapper">
+    </div>
+    <footer>
+    <ul>
+      <li> <a href="https://bildtema.isof.se/">Lexin bildtema</a>
+      </li><li> <a href="/lexinanim/">Lexin verbfilmer</a>
+      </li><li> <a href="/dialogteman/">Lexin dialogfilmer</a>
+      </li></ul>
+       <div class="isoflogowrapper">
+       <img alt="​&quot;Vit" logotyp="" isof"="" src="/logotyp-isof.svg">
+</div>
+<ul class="signoff">
+    <li>
+      Lexin publiceras av Institutet för språk och folkminnen.
+    </li>
+</ul>
+<ul class="lp-footer-menu">
+<li>
+<a class="normal" href="https://www.isof.se/vart-uppdrag/om-myndigheten">
+              <span>Om myndigheten Isof</span>                <svg aria-hidden="true" class="lp-icon">
+                  <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/lp-icons.svg#lp-chevron-right"></use>
+                </svg>            </a>
+</li>
+    <li>
+      <a href="https://www.isof.se/vart-uppdrag/om-myndigheten/om-webbplatsen/tillganglighetsredogorelse">Tillgänglighetsredogörelse <svg aria-hidden="true" class="lp-icon">
+                  <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/lp-icons.svg#lp-chevron-right"></use>
+                </svg></a>
+    </li>
+</ul>
+    </footer>
+    
+  
+
+</body>

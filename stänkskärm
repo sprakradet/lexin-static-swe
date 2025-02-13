@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="/lexintest.css">
+    <meta name="theme-color" content="#1c3f49">
+    <title>Lexin – stänkskärm</title>
+
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, shrink-to-fit=no, viewport-fit=cover">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="canonical" href="https://lexin.se/">
+    <link rel="apple-touch-icon" href="/lexin-small.png">
+
+    <link rel="stylesheet" href="/settings.css">
+  </head>
+
+  <body>
+    <div id="inputDiv">
+      
+      <form id="theForm" action="/">
+	<div class="headerrow">
+	  <h1 class="heading">LEXIN</h1>
+
+	<button title="Visa inställningar" class="settingsIcon" type="submit">
+	  <div class="settingsBar1"></div>
+	  <div class="settingsBar2"></div>
+	  <div class="settingsBar3"></div>
+	</button>
+
+      </div>
+      <div id="settingsFormValues"><input type="hidden" name="word" value="stänkskärm"><input type="hidden" name="settings" value="show"></div>
+      </form>
+      
+    </div>
+
+    <form id="theForm2" action="/" class="permbar">
+	  <div class="inputwrapper">
+	    <input name="word" dir="auto" placeholder="Sök..." value="" id="searchQuery" autofocus="" autocorrect="off" autocapitalize="none" autocomplete="off">
+	    <input type="submit">
+	  </div>
+    </form>
+
+    <div class="content">
+    <main>
+      <div class="resultsAndLemmasContainer">
+
+	<div id="resultsDiv" aria-live="polite"><div lang="sv" dir="ltr"><ul class="resultList" lang="sv" dir="ltr"><li><div><div class="wordInfo"><div class="wordInfoMain"><span class="matchingWord" lang="sv" dir="ltr">stänk|skärm </span><span class="pronunciation"><span class="phonetic clickableHeading makeClickableHeadingsStandOut"> [²stẹŋ:kʃär:m] </span></span><span class="PoS clickableHeading makeClickableHeadingsStandOut">substantiv<br></span><span class="inflections" lang="sv" dir="ltr"><span><span> (stänk|skärm · stänkskärmen · stänkskärmar · stänkskärmarna) </span></span><br></span></div><div class="listenContainer"><div class="pronunciation"><div class="soundFiles"><button title="Lyssna på uttalet" type="button" lang="sv" dir="ltr"><div class="listenIcon"></div></button></div></div></div></div><div class="entryContent"><ol class="lexemeList"><li class="lexemeItem"><span lang="sv" dir="ltr" class="meaning"><span><span class="longClickLink">skärm</span><span> </span><span class="longClickLink">som</span><span> </span><span class="longClickLink">hindrar</span><span> </span><span class="longClickLink">ett</span><span> </span><span class="longClickLink">fordons</span><span> </span><span class="longClickLink">hjul</span><span> </span><span class="longClickLink">från</span><span> </span><span class="longClickLink">att</span><span> </span><span class="longClickLink">stänka</span><span>&nbsp;(</span><span class="longClickLink">2</span><span>)</span></span></span><br><div><div class="ill"><span lang="sv" dir="ltr" class="imageLink">Bild<div class="picWrap"><img src="/images.svg" class="picIcon" title="Öppna sida med bilder"></div></span><div style="display: block;"><div style="display: block; width: 100%;" class="inlineImage"><img src="/bilder/bildtema-17-1.png" style="width:100%;"></div><a href="https://bildtema.isof.se/bildetema/bildetema-html5/bildetema.html?version=swedish&amp;languages=swe&amp;page=17&amp;subpage=1">Visa i Bildteman</a></div></div></div></li></ol></div></div></li><li><div><div class="wordInfo"><div class="wordInfoMain"><span class="matchingWord" lang="sv" dir="ltr">skärm </span><img src="/submenuBlack.svg" class="expandResultsIcon"><span class="pronunciation notRelevant" style=""><span class="phonetic clickableHeading makeClickableHeadingsStandOut"> [ʃär:m] </span></span><span class="PoS notRelevant clickableHeading makeClickableHeadingsStandOut" style="">substantiv<br></span><span class=" notRelevant" lang="sv" dir="ltr" style=""><span><span> (skärm · skärmen · skärmar · skärmarna) </span></span><br></span></div><div class="listenContainer"><div class="pronunciation notRelevant" style=""><div class="soundFiles"><button title="Lyssna på uttalet" type="button" lang="sv" dir="ltr"><div class="listenIcon"></div></button></div></div></div></div><div class="entryContent"><ol class="lexemeList"><li class="lexemeItem"><span lang="sv" dir="ltr" class="meaning notRelevant" style=""><span><span class="longClickLink">skiva</span><span> </span><span class="longClickLink">som</span><span> </span><span class="longClickLink">skyddar</span><span> </span><span class="longClickLink">eller</span><span> </span><span class="longClickLink">täcker</span><span> </span><span class="longClickLink">något</span></span></span><br><div class="notRelevant" style=""><div class="ill"><span lang="sv" dir="ltr" class="imageLink">Bild<div class="picWrap"><img src="/images.svg" class="picIcon" title="Öppna sida med bilder"></div></span><div style="display: block;"><div style="display: block; width: 100%; margin: 1em 0px; text-align: center;" class="inlineImage"><img src="/bilder/31/3/images/Bitmap1.png" style=""></div><div style="display: block; width: 100%;" class="inlineImage"><img src="/bilder/bildtema-31-3.png" style="width:100%;"></div><a href="https://bildtema.isof.se/bildetema/bildetema-html5/bildetema.html?version=swedish&amp;languages=swe&amp;page=31&amp;subpage=3">Visa i Bildteman</a></div></div></div><div class="compounds"><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Sammansättningar</span><span>: </span></span><ul class="compoundList"><li class=" notRelevant" style=""><span lang="sv" dir="ltr"><span>skärm|mössa</span></span></li><li class=" notRelevant" style=""><span lang="sv" dir="ltr"><span>lamp|skärm</span></span></li><li><span lang="sv" dir="ltr"><span>stänk|skärm</span></span></li></ul></div><ul class="cycleList notRelevant" style=""><li class="cycle notRelevant" style=""><span class="comment_se notRelevant" style=""><span class="comment" lang="sv" dir="ltr"><span><span>&lt;även&gt; </span></span></span></span><span class="meaning notRelevant" lang="sv" dir="ltr" style=""><span><span>skiva som man visar bilder på</span></span></span><br><div class="compounds notRelevant" style=""><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Sammansättning</span><span>: </span></span><ul class="compoundList"><li class=" notRelevant" style=""><span lang="sv" dir="ltr"><span>bild|skärm</span></span></li></ul></div></li></ul></li></ol></div></div></li><li><div><div class="wordInfo"><div class="wordInfoMain"><span class="matchingWord" lang="sv" dir="ltr">stänk </span><img src="/submenuBlack.svg" class="expandResultsIcon"><span class="pronunciation notRelevant" style=""><span class="phonetic clickableHeading makeClickableHeadingsStandOut"> [steŋ:k] </span></span><span class="PoS notRelevant clickableHeading makeClickableHeadingsStandOut" style="">substantiv<br></span><span class=" notRelevant" lang="sv" dir="ltr" style=""><span><span> (stänk · stänket · stänk · stänken) </span></span><br></span></div><div class="listenContainer"><div class="pronunciation notRelevant" style=""><div class="soundFiles"><button title="Lyssna på uttalet" type="button" lang="sv" dir="ltr"><div class="listenIcon"></div></button></div></div></div></div><div class="entryContent"><ol class="lexemeList"><li class="lexemeItem"><span lang="sv" dir="ltr" class="meaning notRelevant" style=""><span><span class="longClickLink">droppe</span><span>, </span><span class="longClickLink">skvätt</span></span></span><br><div class="compounds"><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Sammansättningar</span><span>: </span></span><ul class="compoundList"><li><span lang="sv" dir="ltr"><span>stänk|skärm</span></span></li><li class=" notRelevant" style=""><span lang="sv" dir="ltr"><span>ler|stänk</span></span></li></ul></div><ul class="cycleList notRelevant" style=""><li class="cycle notRelevant" style=""><span class="comment_se notRelevant" style=""><span class="comment" lang="sv" dir="ltr"><span><span>&lt;även bildligt&gt; </span></span></span></span><span class="meaning notRelevant" lang="sv" dir="ltr" style=""><span><span>liten mängd, aning (1)</span></span></span><br><div class="examples notRelevant" style=""><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Exempel</span><span>: </span></span><ul class="exampleList"><li class=" notRelevant" style=""><span lang="sv" dir="ltr"><span>de kände ett stänk av vemod vid avskedet</span></span></li></ul></div></li></ul></li></ol></div></div></li></ul></div></div>
+      </div>
+    </main>
+
+    </div>
+
+
+    <div class="LexinExplanationsWrapper" id="LexinExplanationsWrapper">
+    </div>
+    <footer>
+    <ul>
+      <li> <a href="https://bildtema.isof.se/">Lexin bildtema</a>
+      </li><li> <a href="/lexinanim/">Lexin verbfilmer</a>
+      </li><li> <a href="/dialogteman/">Lexin dialogfilmer</a>
+      </li></ul>
+       <div class="isoflogowrapper">
+       <img alt="​&quot;Vit" logotyp="" isof"="" src="/logotyp-isof.svg">
+</div>
+<ul class="signoff">
+    <li>
+      Lexin publiceras av Institutet för språk och folkminnen.
+    </li>
+</ul>
+<ul class="lp-footer-menu">
+<li>
+<a class="normal" href="https://www.isof.se/vart-uppdrag/om-myndigheten">
+              <span>Om myndigheten Isof</span>                <svg aria-hidden="true" class="lp-icon">
+                  <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/lp-icons.svg#lp-chevron-right"></use>
+                </svg>            </a>
+</li>
+    <li>
+      <a href="https://www.isof.se/vart-uppdrag/om-myndigheten/om-webbplatsen/tillganglighetsredogorelse">Tillgänglighetsredogörelse <svg aria-hidden="true" class="lp-icon">
+                  <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/lp-icons.svg#lp-chevron-right"></use>
+                </svg></a>
+    </li>
+</ul>
+    </footer>
+    
+  
+
+</body>

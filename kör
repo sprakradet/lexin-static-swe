@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="/lexintest.css">
+    <meta name="theme-color" content="#1c3f49">
+    <title>Lexin – kör</title>
+
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, shrink-to-fit=no, viewport-fit=cover">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="canonical" href="https://lexin.se/">
+    <link rel="apple-touch-icon" href="/lexin-small.png">
+
+    <link rel="stylesheet" href="/settings.css">
+  </head>
+
+  <body>
+    <div id="inputDiv">
+      
+      <form id="theForm" action="/">
+	<div class="headerrow">
+	  <h1 class="heading">LEXIN</h1>
+
+	<button title="Visa inställningar" class="settingsIcon" type="submit">
+	  <div class="settingsBar1"></div>
+	  <div class="settingsBar2"></div>
+	  <div class="settingsBar3"></div>
+	</button>
+
+      </div>
+      <div id="settingsFormValues"><input type="hidden" name="word" value="kör"><input type="hidden" name="settings" value="show"></div>
+      </form>
+      
+    </div>
+
+    <form id="theForm2" action="/" class="permbar">
+	  <div class="inputwrapper">
+	    <input name="word" dir="auto" placeholder="Sök..." value="" id="searchQuery" autofocus="" autocorrect="off" autocapitalize="none" autocomplete="off">
+	    <input type="submit">
+	  </div>
+    </form>
+
+    <div class="content">
+    <main>
+      <div class="resultsAndLemmasContainer">
+
+	<div id="resultsDiv" aria-live="polite"><div lang="sv" dir="ltr"><ul class="resultList" lang="sv" dir="ltr"><li><div><div class="wordInfo"><div class="wordInfoMain"><span class="matchingWord" lang="sv" dir="ltr">kör (1)</span><span class="pronunciation"><span class="phonetic clickableHeading makeClickableHeadingsStandOut"> [çö:r] </span></span><span class="PoS clickableHeading makeClickableHeadingsStandOut">substantiv, ingen böjning<br></span></div><div class="listenContainer"><div class="pronunciation"><div class="soundFiles"><button title="Lyssna på uttalet" type="button" lang="sv" dir="ltr"><div class="listenIcon"></div></button></div></div></div></div><div class="entryContent"><ol class="lexemeList"><li class="lexemeItem"><div lang="sv" dir="ltr" class="idioms"><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Uttryck</span><span>: </span></span><ul class="idiomList"><li><span class="idiomHead" lang="sv" dir="ltr"><span><span>i ett kör </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>oavbrutet, ständigt</span></span></span></li></ul></div></li></ol></div></div></li><li><div><div class="wordInfo"><div class="wordInfoMain"><span class="matchingWord" lang="sv" dir="ltr">kör (2)</span><span class="pronunciation"><span class="phonetic clickableHeading makeClickableHeadingsStandOut"> [kö:r] </span></span><span class="PoS clickableHeading makeClickableHeadingsStandOut">substantiv<br></span><span class="inflections" lang="sv" dir="ltr"><span><span> (kör · kören · körer · körerna) </span></span><br></span></div><div class="listenContainer"><div class="pronunciation"><div class="soundFiles"><button title="Lyssna på uttalet" type="button" lang="sv" dir="ltr"><div class="listenIcon"></div></button></div></div></div></div><div class="entryContent"><ol class="lexemeList"><li class="lexemeItem"><span lang="sv" dir="ltr" class="meaning"><span><span class="longClickLink">grupp</span><span> </span><span class="longClickLink">personer</span><span> </span><span class="longClickLink">som</span><span> </span><span class="longClickLink">sjunger</span><span> (</span><span class="longClickLink">eller</span><span> </span><span class="longClickLink">talar</span><span>) </span><span class="longClickLink">tillsammans</span></span></span><br><div><div class="ill"><span lang="sv" dir="ltr" class="imageLink">Bild<div class="picWrap"><img src="/images.svg" class="picIcon" title="Öppna sida med bilder"></div></span><div style="display: block;"><div style="display: block; width: 100%; margin: 1em 0px; text-align: center;" class="inlineImage"><img src="/bilder/18/3/images/Bitmap1.png" style=""></div><div style="display: block; width: 100%;" class="inlineImage"><img src="/bilder/bildtema-18-3.png" style="width:100%;"></div><a href="https://bildtema.isof.se/bildetema/bildetema-html5/bildetema.html?version=swedish&amp;languages=swe&amp;page=18&amp;subpage=3">Visa i Bildteman</a></div></div></div><div class="compounds"><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Sammansättningar</span><span>: </span></span><ul class="compoundList"><li><span lang="sv" dir="ltr"><span>barn|kör</span></span></li><li><span lang="sv" dir="ltr"><span>dam|kör</span></span></li><li><span lang="sv" dir="ltr"><span>kör|sång</span></span></li><li><span lang="sv" dir="ltr"><span>mans|kör</span></span></li><li><span lang="sv" dir="ltr"><span>tal|kör</span></span></li></ul></div><div class="examples"><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Exempel</span><span>: </span></span><ul class="exampleList"><li><span lang="sv" dir="ltr"><span>kören sjöng julsånger i kyrkan</span></span></li><li><span lang="sv" dir="ltr"><span>"Vi vill ha glass", sa barnen i kör</span></span></li></ul></div><div lang="sv" dir="ltr" class="idioms"><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Uttryck</span><span>: </span></span><ul class="idiomList"><li><span class="idiomHead" lang="sv" dir="ltr"><span><span>blandad kör </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>kör med både män och kvinnor</span></span></span></li></ul></div></li></ol></div></div></li><li><div><div class="wordInfo"><div class="wordInfoMain"><span class="matchingWord" lang="sv" dir="ltr">kör (3)</span><span class="pronunciation"><span class="phonetic clickableHeading makeClickableHeadingsStandOut"> [çö:r] </span></span><span class="PoS clickableHeading makeClickableHeadingsStandOut">verb<br></span><span class="inflections" lang="sv" dir="ltr"><span><span> (kör ·  </span></span><span class="cueWord">att</span><span><span>&nbsp;köra · körde ·  </span></span><span class="cueWord">har</span><span><span>&nbsp;kört ·  </span></span><span class="cueWord">är</span><span><span>&nbsp;körd · kör</span></span><span class="cueWord">!</span><span><span>) </span></span><br></span></div><div class="listenContainer"><div class="pronunciation"><div class="soundFiles"><button title="Lyssna på uttalet" type="button" lang="sv" dir="ltr"><div class="listenIcon"></div></button></div></div></div></div><div class="entryContent"><ol class="lexemeList"><li class="lexemeItem"><span lang="sv" dir="ltr" class="meaning"><span><span class="longClickLink">framför</span><span> (</span><span class="longClickLink">ett</span><span> </span><span class="longClickLink">fordon</span><span>)</span></span></span><br><div class="referenceContainer"><div><span class="referenceHead clickableHeading makeClickableHeadingsStandOut" lang="sv" dir="ltr">Video: </span><a class="referenceInfo" href="http://lexin.nada.kth.se/lang/lexinanim/kor_av.mp4" lang="sv" dir="ltr">Visa film</a><div class="picWrap" title="Titta på videoklippet" lang="sv" dir="ltr"><img src="video.svg" class="vidIcon"></div></div></div><div class="referenceContainer"><div><span class="referenceHead clickableHeading makeClickableHeadingsStandOut" lang="sv" dir="ltr">Video: </span><a class="referenceInfo" href="http://lexin.nada.kth.se/lang/lexinanim/kor_in_i_garaget.mp4" lang="sv" dir="ltr">Visa film</a><div class="picWrap" title="Titta på videoklippet" lang="sv" dir="ltr"><img src="video.svg" class="vidIcon"></div></div></div><div class="referenceContainer"><div><span class="referenceHead clickableHeading makeClickableHeadingsStandOut" lang="sv" dir="ltr">Video: </span><a class="referenceInfo" href="http://lexin.nada.kth.se/lang/lexinanim/kor_om.mp4" lang="sv" dir="ltr">Visa film</a><div class="picWrap" title="Titta på videoklippet" lang="sv" dir="ltr"><img src="video.svg" class="vidIcon"></div></div></div><div class="referenceContainer"><div><span class="referenceHead clickableHeading makeClickableHeadingsStandOut" lang="sv" dir="ltr">Video: </span><a class="referenceInfo" href="http://lexin.nada.kth.se/lang/lexinanim/kor_over.mp4" lang="sv" dir="ltr">Visa film</a><div class="picWrap" title="Titta på videoklippet" lang="sv" dir="ltr"><img src="video.svg" class="vidIcon"></div></div></div><div class="referenceContainer"><div><span class="referenceHead clickableHeading makeClickableHeadingsStandOut" lang="sv" dir="ltr">Video: </span><a class="referenceInfo" href="http://lexin.nada.kth.se/lang/lexinanim/kor_pa.mp4" lang="sv" dir="ltr">Visa film</a><div class="picWrap" title="Titta på videoklippet" lang="sv" dir="ltr"><img src="video.svg" class="vidIcon"></div></div></div><div class="referenceContainer"><div><span class="referenceHead clickableHeading makeClickableHeadingsStandOut" lang="sv" dir="ltr">Video: </span><a class="referenceInfo" href="http://lexin.nada.kth.se/lang/lexinanim/kor_rakt_fram.mp4" lang="sv" dir="ltr">Visa film</a><div class="picWrap" title="Titta på videoklippet" lang="sv" dir="ltr"><img src="video.svg" class="vidIcon"></div></div></div><div class="compounds"><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Sammansättningar</span><span>: </span></span><ul class="compoundList"><li><span lang="sv" dir="ltr"><span>kör|fält</span></span></li><li><span lang="sv" dir="ltr"><span>kör|riktning</span></span></li></ul></div><div class="examples"><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Exempel</span><span>: </span></span><ul class="exampleList"><li><span lang="sv" dir="ltr"><span>han brukar lyssna på radio när han kör bil</span></span></li></ul></div><div class="gramInfo" lang="sv" dir="ltr"><div lang="sv" dir="ltr"><img src="/disclosure.svg" class="expandGraminfoIcon"><span class="graminfoExplanationText">&lt;ngn kör (ngt) (RIKTNING)&gt;</span><div style="display: none;" class="graminfoExplanation">ngn = en person, ngt = en sak<ul><li><span><span></span><span class="metavariable">någon</span><span> kör</span><span></span></span></li><li><span><span></span><span class="metavariable">någon</span><span> kör </span><span class="metavariable">riktning</span><span></span></span></li><li><span><span></span><span class="metavariable">någon</span><span> kör </span><span class="metavariable">något</span><span></span></span></li><li><span><span></span><span class="metavariable">någon</span><span> kör </span><span class="metavariable">något</span><span> </span><span class="metavariable">riktning</span><span></span></span></li></ul></div></div></div><ul class="cycleList"><li class="cycle"><span class="comment_se"><span class="comment" lang="sv" dir="ltr"><span><span>&lt;även&gt; </span></span></span></span><span class="meaning" lang="sv" dir="ltr"><span><span>transporterar</span></span></span><br><div class="examples"><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Exempel</span><span>: </span></span><ul class="exampleList"><li><span lang="sv" dir="ltr"><span>Vill du köra mig till stationen?</span></span></li></ul></div><div class="gramInfo" lang="sv" dir="ltr"><div lang="sv" dir="ltr"><img src="/disclosure.svg" class="expandGraminfoIcon"><span class="graminfoExplanationText">&lt;ngn kör ngn/ngt (från ngt) (till ngt)&gt;</span><div style="display: none;" class="graminfoExplanation">ngn = en person, ngt = en sak<ul><li><span><span></span><span class="metavariable">någon</span><span> kör </span><span class="metavariable">någon</span><span></span></span></li><li><span><span></span><span class="metavariable">någon</span><span> kör </span><span class="metavariable">något</span><span></span></span></li><li><span><span></span><span class="metavariable">någon</span><span> kör </span><span class="metavariable">någon</span><span> till </span><span class="metavariable">något</span><span></span></span></li><li><span><span></span><span class="metavariable">någon</span><span> kör </span><span class="metavariable">något</span><span> till </span><span class="metavariable">något</span><span></span></span></li><li><span><span></span><span class="metavariable">någon</span><span> kör </span><span class="metavariable">någon</span><span> från </span><span class="metavariable">något</span><span></span></span></li><li><span><span></span><span class="metavariable">någon</span><span> kör </span><span class="metavariable">något</span><span> från </span><span class="metavariable">något</span><span></span></span></li><li><span><span></span><span class="metavariable">någon</span><span> kör </span><span class="metavariable">någon</span><span> från </span><span class="metavariable">något</span><span> till </span><span class="metavariable">något</span><span></span></span></li><li><span><span></span><span class="metavariable">någon</span><span> kör </span><span class="metavariable">något</span><span> från </span><span class="metavariable">något</span><span> till </span><span class="metavariable">något</span><span></span></span></li></ul></div></div></div></li></ul><div lang="sv" dir="ltr" class="idioms"><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Uttryck</span><span>: </span></span><ul class="idiomList"><li><span class="idiomHead" lang="sv" dir="ltr"><span><span>kör med någon </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>går hårt fram med någon</span></span></span></li><li><span class="idiomHead" lang="sv" dir="ltr"><span><span>kör på porten </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>visar ut</span></span></span></li><li><span class="idiomHead" lang="sv" dir="ltr"><span><span>kör upp </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>avlägger körkortsprov</span></span></span></li></ul></div></li></ol></div></div></li></ul></div></div>
+      </div>
+    </main>
+
+    </div>
+
+
+    <div class="LexinExplanationsWrapper" id="LexinExplanationsWrapper">
+    </div>
+    <footer>
+    <ul>
+      <li> <a href="https://bildtema.isof.se/">Lexin bildtema</a>
+      </li><li> <a href="/lexinanim/">Lexin verbfilmer</a>
+      </li><li> <a href="/dialogteman/">Lexin dialogfilmer</a>
+      </li></ul>
+       <div class="isoflogowrapper">
+       <img alt="​&quot;Vit" logotyp="" isof"="" src="/logotyp-isof.svg">
+</div>
+<ul class="signoff">
+    <li>
+      Lexin publiceras av Institutet för språk och folkminnen.
+    </li>
+</ul>
+<ul class="lp-footer-menu">
+<li>
+<a class="normal" href="https://www.isof.se/vart-uppdrag/om-myndigheten">
+              <span>Om myndigheten Isof</span>                <svg aria-hidden="true" class="lp-icon">
+                  <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/lp-icons.svg#lp-chevron-right"></use>
+                </svg>            </a>
+</li>
+    <li>
+      <a href="https://www.isof.se/vart-uppdrag/om-myndigheten/om-webbplatsen/tillganglighetsredogorelse">Tillgänglighetsredogörelse <svg aria-hidden="true" class="lp-icon">
+                  <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/lp-icons.svg#lp-chevron-right"></use>
+                </svg></a>
+    </li>
+</ul>
+    </footer>
+    
+  
+
+</body>

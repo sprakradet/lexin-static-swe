@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="/lexintest.css">
+    <meta name="theme-color" content="#1c3f49">
+    <title>Lexin – snutit</title>
+
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, shrink-to-fit=no, viewport-fit=cover">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="canonical" href="https://lexin.se/">
+    <link rel="apple-touch-icon" href="/lexin-small.png">
+
+    <link rel="stylesheet" href="/settings.css">
+  </head>
+
+  <body>
+    <div id="inputDiv">
+      
+      <form id="theForm" action="/">
+	<div class="headerrow">
+	  <h1 class="heading">LEXIN</h1>
+
+	<button title="Visa inställningar" class="settingsIcon" type="submit">
+	  <div class="settingsBar1"></div>
+	  <div class="settingsBar2"></div>
+	  <div class="settingsBar3"></div>
+	</button>
+
+      </div>
+      <div id="settingsFormValues"><input type="hidden" name="word" value="snutit"><input type="hidden" name="settings" value="show"></div>
+      </form>
+      
+    </div>
+
+    <form id="theForm2" action="/" class="permbar">
+	  <div class="inputwrapper">
+	    <input name="word" dir="auto" placeholder="Sök..." value="" id="searchQuery" autofocus="" autocorrect="off" autocapitalize="none" autocomplete="off">
+	    <input type="submit">
+	  </div>
+    </form>
+
+    <div class="content">
+    <main>
+      <div class="resultsAndLemmasContainer">
+
+	<div id="resultsDiv" aria-live="polite"><div lang="sv" dir="ltr"><ul class="resultList" lang="sv" dir="ltr"><li><div><div class="wordInfo"><div class="wordInfoMain"><span class="matchingWord" lang="sv" dir="ltr">snutit </span><span class="pronunciation"><span class="phonetic clickableHeading makeClickableHeadingsStandOut"> [²snụ:tit] </span></span><span class="PoS clickableHeading makeClickableHeadingsStandOut">verb<br></span><div class="referenceContainer"><span class="referenceHead clickableHeading makeClickableHeadingsStandOut" lang="sv" dir="ltr">Se</span><span>: </span><span class="referenceInfo" lang="sv" dir="ltr"><a href="https://lexin.se/?&amp;word=snyter">snyter</a></span></div></div><div class="listenContainer"><div class="pronunciation"><div class="soundFiles"><button title="Lyssna på uttalet" type="button" lang="sv" dir="ltr"><div class="listenIcon"></div></button></div></div></div></div><div class="entryContent"></div></div></li><li><div><div class="wordInfo"><div class="wordInfoMain"><span class="matchingWord" lang="sv" dir="ltr">snyter  (1)</span><span class="pronunciation"><span class="phonetic clickableHeading makeClickableHeadingsStandOut"> [snỵ:ter] </span></span><span class="PoS clickableHeading makeClickableHeadingsStandOut">verb<br></span><span class="inflections" lang="sv" dir="ltr"><span><span> (snyter ·  </span></span><span class="cueWord">att</span><span><span>&nbsp;snyta · snöt ·  </span></span><span class="cueWord">har</span><span><span>&nbsp;snutit ·  </span></span><span class="cueWord">är</span><span><span>&nbsp;snuten · snyt</span></span><span class="cueWord">!</span><span><span>) </span></span><br></span></div><div class="listenContainer"><div class="pronunciation"><div class="soundFiles"><button title="Lyssna på uttalet" type="button" lang="sv" dir="ltr"><div class="listenIcon"></div></button></div></div></div></div><div class="entryContent"><ol class="lexemeList"><li class="lexemeItem"><span lang="sv" dir="ltr" class="meaning"><span><span class="longClickLink">lurar</span></span></span><br><span class="comment_se"><span class="comment" lang="sv" dir="ltr"><span><span>&lt;vardagligt&gt; </span></span></span></span><div class="referenceContainer"><div><span class="referenceHead clickableHeading makeClickableHeadingsStandOut" lang="sv" dir="ltr">Video: </span><a class="referenceInfo" href="http://lexin.nada.kth.se/lang/lexinanim/snyter_sig.mp4" lang="sv" dir="ltr">Visa film</a><div class="picWrap" title="Titta på videoklippet" lang="sv" dir="ltr"><img src="video.svg" class="vidIcon"></div></div></div><div class="examples"><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Exempel</span><span>: </span></span><ul class="exampleList"><li><span lang="sv" dir="ltr"><span>han snöt kompanjonen på hela vinsten</span></span></li></ul></div><div class="gramInfo" lang="sv" dir="ltr"><div lang="sv" dir="ltr"><img src="/disclosure.svg" class="expandGraminfoIcon"><span class="graminfoExplanationText">&lt;ngn snyter ngn (på ngt)&gt;</span><div style="display: none;" class="graminfoExplanation">ngn = en person, ngt = en sak<ul><li><span><span></span><span class="metavariable">någon</span><span> snyter </span><span class="metavariable">någon</span><span></span></span></li><li><span><span></span><span class="metavariable">någon</span><span> snyter </span><span class="metavariable">någon</span><span> på </span><span class="metavariable">något</span><span></span></span></li></ul></div></div></div></li></ol></div></div></li><li><div><div class="wordInfo"><div class="wordInfoMain"><span class="matchingWord" lang="sv" dir="ltr">snyter  (2)</span><span class="pronunciation"><span class="phonetic clickableHeading makeClickableHeadingsStandOut"> [snỵ:ter] </span></span><span class="PoS clickableHeading makeClickableHeadingsStandOut">verb<br></span><span class="inflections" lang="sv" dir="ltr"><span><span> (snyter ·  </span></span><span class="cueWord">att</span><span><span>&nbsp;snyta · snöt ·  </span></span><span class="cueWord">har</span><span><span>&nbsp;snutit ·  </span></span><span class="cueWord">är</span><span><span>&nbsp;snuten · snyt</span></span><span class="cueWord">!</span><span><span>) </span></span><br></span></div><div class="listenContainer"><div class="pronunciation"><div class="soundFiles"><button title="Lyssna på uttalet" type="button" lang="sv" dir="ltr"><div class="listenIcon"></div></button></div></div></div></div><div class="entryContent"><ol class="lexemeList"><li class="lexemeItem"><span lang="sv" dir="ltr" class="meaning"><span><span class="longClickLink">får</span><span> </span><span class="longClickLink">att</span><span> </span><span class="longClickLink">snyta</span><span> </span><span class="longClickLink">sig</span></span></span><br><div class="examples"><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Exempel</span><span>: </span></span><ul class="exampleList"><li><span lang="sv" dir="ltr"><span>hon försökte snyta babyn</span></span></li></ul></div><div class="gramInfo" lang="sv" dir="ltr"><div lang="sv" dir="ltr"><img src="/disclosure.svg" class="expandGraminfoIcon"><span class="graminfoExplanationText">&lt;ngn snyter ngn&gt;</span><div style="display: none;" class="graminfoExplanation">ngn = en person, ngt = en sak<ul><li><span><span></span><span class="metavariable">någon</span><span> snyter </span><span class="metavariable">någon</span><span></span></span></li></ul></div></div></div></li></ol></div></div></li></ul></div></div>
+      </div>
+    </main>
+
+    </div>
+
+
+    <div class="LexinExplanationsWrapper" id="LexinExplanationsWrapper">
+    </div>
+    <footer>
+    <ul>
+      <li> <a href="https://bildtema.isof.se/">Lexin bildtema</a>
+      </li><li> <a href="/lexinanim/">Lexin verbfilmer</a>
+      </li><li> <a href="/dialogteman/">Lexin dialogfilmer</a>
+      </li></ul>
+       <div class="isoflogowrapper">
+       <img alt="​&quot;Vit" logotyp="" isof"="" src="/logotyp-isof.svg">
+</div>
+<ul class="signoff">
+    <li>
+      Lexin publiceras av Institutet för språk och folkminnen.
+    </li>
+</ul>
+<ul class="lp-footer-menu">
+<li>
+<a class="normal" href="https://www.isof.se/vart-uppdrag/om-myndigheten">
+              <span>Om myndigheten Isof</span>                <svg aria-hidden="true" class="lp-icon">
+                  <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/lp-icons.svg#lp-chevron-right"></use>
+                </svg>            </a>
+</li>
+    <li>
+      <a href="https://www.isof.se/vart-uppdrag/om-myndigheten/om-webbplatsen/tillganglighetsredogorelse">Tillgänglighetsredogörelse <svg aria-hidden="true" class="lp-icon">
+                  <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/lp-icons.svg#lp-chevron-right"></use>
+                </svg></a>
+    </li>
+</ul>
+    </footer>
+    
+  
+
+</body>

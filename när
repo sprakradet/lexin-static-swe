@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="/lexintest.css">
+    <meta name="theme-color" content="#1c3f49">
+    <title>Lexin – när</title>
+
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, shrink-to-fit=no, viewport-fit=cover">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="canonical" href="https://lexin.se/">
+    <link rel="apple-touch-icon" href="/lexin-small.png">
+
+    <link rel="stylesheet" href="/settings.css">
+  </head>
+
+  <body>
+    <div id="inputDiv">
+      
+      <form id="theForm" action="/">
+	<div class="headerrow">
+	  <h1 class="heading">LEXIN</h1>
+
+	<button title="Visa inställningar" class="settingsIcon" type="submit">
+	  <div class="settingsBar1"></div>
+	  <div class="settingsBar2"></div>
+	  <div class="settingsBar3"></div>
+	</button>
+
+      </div>
+      <div id="settingsFormValues"><input type="hidden" name="word" value="när"><input type="hidden" name="settings" value="show"></div>
+      </form>
+      
+    </div>
+
+    <form id="theForm2" action="/" class="permbar">
+	  <div class="inputwrapper">
+	    <input name="word" dir="auto" placeholder="Sök..." value="" id="searchQuery" autofocus="" autocorrect="off" autocapitalize="none" autocomplete="off">
+	    <input type="submit">
+	  </div>
+    </form>
+
+    <div class="content">
+    <main>
+      <div class="resultsAndLemmasContainer">
+
+	<div id="resultsDiv" aria-live="polite"><div lang="sv" dir="ltr"><ul class="resultList" lang="sv" dir="ltr"><li><div><div class="wordInfo"><div class="wordInfoMain"><span class="matchingWord" lang="sv" dir="ltr">när (1) (1)</span><span class="pronunciation"><span class="phonetic clickableHeading makeClickableHeadingsStandOut"> [nä:r] </span></span><span class="PoS clickableHeading makeClickableHeadingsStandOut">adverb<br></span></div><div class="listenContainer"><div class="pronunciation"><div class="soundFiles"><button title="Lyssna på uttalet" type="button" lang="sv" dir="ltr"><div class="listenIcon"></div></button></div></div></div></div><div class="entryContent"><ol class="lexemeList"><li class="lexemeItem"><span lang="sv" dir="ltr" class="meaning"><span><span class="longClickLink">nära</span></span></span><br><span class="comment_se"><span class="comment" lang="sv" dir="ltr"><span><span>&lt;i fraser&gt; </span></span></span></span><div class="examples"><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Exempel</span><span>: </span></span><ul class="exampleList"><li><span lang="sv" dir="ltr"><span>folk strömmade till från när och fjärran</span></span></li></ul></div><div lang="sv" dir="ltr" class="idioms"><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Uttryck</span><span>: </span></span><ul class="idiomList"><li><span class="idiomHead" lang="sv" dir="ltr"><span><span>hart när (omöjligt) </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>nästan (omöjligt)</span></span></span></li><li><span class="idiomHead" lang="sv" dir="ltr"><span><span>inte på långt när (lika bra) </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>långt ifrån (lika bra)</span></span></span></li><li><span class="idiomHead" lang="sv" dir="ltr"><span><span>något så när </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>någorlunda (bra)</span></span></span></li><li><span class="idiomHead" lang="sv" dir="ltr"><span><span>så när som på (två personer) </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>med undantag av (två personer)</span></span></span></li></ul></div></li></ol></div></div></li><li><div><div class="wordInfo"><div class="wordInfoMain"><span class="matchingWord" lang="sv" dir="ltr">när (1) (2)</span><span class="pronunciation"><span class="phonetic clickableHeading makeClickableHeadingsStandOut"> [nä:r] </span></span><span class="PoS clickableHeading makeClickableHeadingsStandOut">adverb<br></span></div><div class="listenContainer"><div class="pronunciation"><div class="soundFiles"><button title="Lyssna på uttalet" type="button" lang="sv" dir="ltr"><div class="listenIcon"></div></button></div></div></div></div><div class="entryContent"><ol class="lexemeList"><li class="lexemeItem"><span lang="sv" dir="ltr" class="meaning"><span><span class="longClickLink">vid</span><span> </span><span class="longClickLink">vilken</span><span> </span><span class="longClickLink">tidpunkt?</span></span></span><br><div class="examples"><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Exempel</span><span>: </span></span><ul class="exampleList"><li><span lang="sv" dir="ltr"><span>När kommer tåget?</span></span></li><li><span lang="sv" dir="ltr"><span>Jag vet inte när tåget kommer!</span></span></li></ul></div><div lang="sv" dir="ltr" class="idioms"><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Uttryck</span><span>: </span></span><ul class="idiomList"><li><span class="idiomHead" lang="sv" dir="ltr"><span><span>när som helst </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>mycket snart; vid en godtycklig tidpunkt</span></span></span></li></ul></div></li></ol></div></div></li><li><div><div class="wordInfo"><div class="wordInfoMain"><span class="matchingWord" lang="sv" dir="ltr">när (2) (1)</span><span class="pronunciation"><span class="phonetic clickableHeading makeClickableHeadingsStandOut"> [nä:r] </span></span><span class="PoS clickableHeading makeClickableHeadingsStandOut">konjunktion<br></span></div><div class="listenContainer"><div class="pronunciation"><div class="soundFiles"><button title="Lyssna på uttalet" type="button" lang="sv" dir="ltr"><div class="listenIcon"></div></button></div></div></div></div><div class="entryContent"><ol class="lexemeList"><li class="lexemeItem"><span lang="sv" dir="ltr" class="meaning"><span><span class="longClickLink">vid</span><span> </span><span class="longClickLink">den</span><span> </span><span class="longClickLink">tidpunkt</span><span> </span><span class="longClickLink">då</span></span></span><br><div class="examples"><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Exempel</span><span>: </span></span><ul class="exampleList"><li><span lang="sv" dir="ltr"><span>när hon kom hem var dörren låst</span></span></li></ul></div><div lang="sv" dir="ltr" class="idioms"><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Uttryck</span><span>: </span></span><ul class="idiomList"><li><span class="idiomHead" lang="sv" dir="ltr"><span><span>när allt kommer omkring </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>när man tar hänsyn till alla omständigheter</span></span></span></li><li><span class="idiomHead" lang="sv" dir="ltr"><span><span>när det kommer till kritan </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>när det verkligen gäller</span></span></span></li></ul></div></li></ol></div></div></li><li><div><div class="wordInfo"><div class="wordInfoMain"><span class="matchingWord" lang="sv" dir="ltr">när (2) (2)</span><span class="pronunciation"><span class="phonetic clickableHeading makeClickableHeadingsStandOut"> [nä:r] </span></span><span class="PoS clickableHeading makeClickableHeadingsStandOut">konjunktion<br></span></div><div class="listenContainer"><div class="pronunciation"><div class="soundFiles"><button title="Lyssna på uttalet" type="button" lang="sv" dir="ltr"><div class="listenIcon"></div></button></div></div></div></div><div class="entryContent"><ol class="lexemeList"><li class="lexemeItem"><span lang="sv" dir="ltr" class="meaning"><span><span class="longClickLink">eftersom</span></span></span><br><span class="comment_se"><span class="comment" lang="sv" dir="ltr"><span><span>&lt;vardagligt&gt; </span></span></span></span><div class="examples"><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Exempel</span><span>: </span></span><ul class="exampleList"><li><span lang="sv" dir="ltr"><span>Du får ingen bulle när du är så dum!</span></span></li></ul></div></li></ol></div></div></li><li><div><div class="wordInfo"><div class="wordInfoMain"><span class="matchingWord" lang="sv" dir="ltr">när (3)</span><span class="pronunciation"><span class="phonetic clickableHeading makeClickableHeadingsStandOut"> [nä:r] </span></span><span class="PoS clickableHeading makeClickableHeadingsStandOut">verb<br></span><span class="inflections" lang="sv" dir="ltr"><span><span> (när ·  </span></span><span class="cueWord">att</span><span><span>&nbsp;nära · närde ·  </span></span><span class="cueWord">har</span><span><span>&nbsp;närt ·  </span></span><span class="cueWord">är</span><span><span>&nbsp;närd · när</span></span><span class="cueWord">!</span><span><span>) </span></span><br></span></div><div class="listenContainer"><div class="pronunciation"><div class="soundFiles"><button title="Lyssna på uttalet" type="button" lang="sv" dir="ltr"><div class="listenIcon"></div></button></div></div></div></div><div class="entryContent"><ol class="lexemeList"><li class="lexemeItem"><span lang="sv" dir="ltr" class="meaning"><span><span class="longClickLink">ger</span><span> </span><span class="longClickLink">föda</span><span>, </span><span class="longClickLink">ger</span><span> </span><span class="longClickLink">näring</span></span></span><br><div class="gramInfo" lang="sv" dir="ltr"><div lang="sv" dir="ltr"><img src="/disclosure.svg" class="expandGraminfoIcon"><span class="graminfoExplanationText">&lt;ngn när ngn/ngt&gt;</span><div style="display: none;" class="graminfoExplanation">ngn = en person, ngt = en sak<ul><li><span><span></span><span class="metavariable">någon</span><span> när </span><span class="metavariable">någon</span><span></span></span></li><li><span><span></span><span class="metavariable">någon</span><span> när </span><span class="metavariable">något</span><span></span></span></li></ul></div></div></div><div lang="sv" dir="ltr" class="idioms"><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Uttryck</span><span>: </span></span><ul class="idiomList"><li><span class="idiomHead" lang="sv" dir="ltr"><span><span>när en förhoppning om något </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>hoppas på något</span></span></span></li></ul></div></li></ol></div></div></li></ul></div></div>
+      </div>
+    </main>
+
+    </div>
+
+
+    <div class="LexinExplanationsWrapper" id="LexinExplanationsWrapper">
+    </div>
+    <footer>
+    <ul>
+      <li> <a href="https://bildtema.isof.se/">Lexin bildtema</a>
+      </li><li> <a href="/lexinanim/">Lexin verbfilmer</a>
+      </li><li> <a href="/dialogteman/">Lexin dialogfilmer</a>
+      </li></ul>
+       <div class="isoflogowrapper">
+       <img alt="​&quot;Vit" logotyp="" isof"="" src="/logotyp-isof.svg">
+</div>
+<ul class="signoff">
+    <li>
+      Lexin publiceras av Institutet för språk och folkminnen.
+    </li>
+</ul>
+<ul class="lp-footer-menu">
+<li>
+<a class="normal" href="https://www.isof.se/vart-uppdrag/om-myndigheten">
+              <span>Om myndigheten Isof</span>                <svg aria-hidden="true" class="lp-icon">
+                  <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/lp-icons.svg#lp-chevron-right"></use>
+                </svg>            </a>
+</li>
+    <li>
+      <a href="https://www.isof.se/vart-uppdrag/om-myndigheten/om-webbplatsen/tillganglighetsredogorelse">Tillgänglighetsredogörelse <svg aria-hidden="true" class="lp-icon">
+                  <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/lp-icons.svg#lp-chevron-right"></use>
+                </svg></a>
+    </li>
+</ul>
+    </footer>
+    
+  
+
+</body>

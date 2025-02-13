@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="/lexintest.css">
+    <meta name="theme-color" content="#1c3f49">
+    <title>Lexin – sitter</title>
+
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, shrink-to-fit=no, viewport-fit=cover">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="canonical" href="https://lexin.se/">
+    <link rel="apple-touch-icon" href="/lexin-small.png">
+
+    <link rel="stylesheet" href="/settings.css">
+  </head>
+
+  <body>
+    <div id="inputDiv">
+      
+      <form id="theForm" action="/">
+	<div class="headerrow">
+	  <h1 class="heading">LEXIN</h1>
+
+	<button title="Visa inställningar" class="settingsIcon" type="submit">
+	  <div class="settingsBar1"></div>
+	  <div class="settingsBar2"></div>
+	  <div class="settingsBar3"></div>
+	</button>
+
+      </div>
+      <div id="settingsFormValues"><input type="hidden" name="word" value="sitter"><input type="hidden" name="settings" value="show"></div>
+      </form>
+      
+    </div>
+
+    <form id="theForm2" action="/" class="permbar">
+	  <div class="inputwrapper">
+	    <input name="word" dir="auto" placeholder="Sök..." value="" id="searchQuery" autofocus="" autocorrect="off" autocapitalize="none" autocomplete="off">
+	    <input type="submit">
+	  </div>
+    </form>
+
+    <div class="content">
+    <main>
+      <div class="resultsAndLemmasContainer">
+
+	<div id="resultsDiv" aria-live="polite"><div lang="sv" dir="ltr"><ul class="resultList" lang="sv" dir="ltr"><li><div><div class="wordInfo"><div class="wordInfoMain"><span class="matchingWord" lang="sv" dir="ltr">sitter  (1)</span><span class="pronunciation"><span class="phonetic clickableHeading makeClickableHeadingsStandOut"> [sịt:er] </span></span><span class="PoS clickableHeading makeClickableHeadingsStandOut">verb<br></span><span class="inflections" lang="sv" dir="ltr"><span><span> (sitter ·  </span></span><span class="cueWord">att</span><span><span>&nbsp;sitta · satt ·  </span></span><span class="cueWord">har</span><span><span>&nbsp;suttit · – · sitt</span></span><span class="cueWord">!</span><span><span>) </span></span><br></span></div><div class="listenContainer"><div class="pronunciation"><div class="soundFiles"><button title="Lyssna på uttalet" type="button" lang="sv" dir="ltr"><div class="listenIcon"></div></button></div></div></div></div><div class="entryContent"><ol class="lexemeList"><li class="lexemeItem"><span lang="sv" dir="ltr" class="meaning"><span><span class="longClickLink">vilar</span><span> </span><span class="longClickLink">på</span><span> </span><span class="longClickLink">bakdelen</span><span> </span><span class="longClickLink">med</span><span> </span><span class="longClickLink">överkroppen</span><span> </span><span class="longClickLink">upprätt</span><span> (</span><span class="longClickLink">ofta</span><span> </span><span class="longClickLink">på</span><span> </span><span class="longClickLink">en</span><span> </span><span class="longClickLink">stol</span><span>)</span></span></span><br><div class="referenceContainer"><div><span class="referenceHead clickableHeading makeClickableHeadingsStandOut" lang="sv" dir="ltr">Video: </span><a class="referenceInfo" href="http://lexin.nada.kth.se/lang/lexinanim/sitter.mp4" lang="sv" dir="ltr">Visa film</a><div class="picWrap" title="Titta på videoklippet" lang="sv" dir="ltr"><img src="video.svg" class="vidIcon"></div></div></div><div class="compounds"><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Sammansättningar</span><span>: </span></span><ul class="compoundList"><li><span lang="sv" dir="ltr"><span>sitt|möbel</span></span></li><li><span lang="sv" dir="ltr"><span>sitt|plats</span></span></li></ul></div><div class="examples"><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Exempel</span><span>: </span></span><ul class="exampleList"><li><span lang="sv" dir="ltr"><span>han satt i fåtöljen och såg på tv</span></span></li><li><span lang="sv" dir="ltr"><span>hela familjen satt till bords</span></span></li></ul></div><div class="gramInfo" lang="sv" dir="ltr"><div lang="sv" dir="ltr"><img src="/disclosure.svg" class="expandGraminfoIcon"><span class="graminfoExplanationText">&lt;ngn sitter (PLATS)&gt;</span><div style="display: none;" class="graminfoExplanation">ngn = en person, ngt = en sak<ul><li><span><span></span><span class="metavariable">någon</span><span> sitter</span><span></span></span></li><li><span><span></span><span class="metavariable">någon</span><span> sitter </span><span class="metavariable">plats</span><span></span></span></li></ul></div></div></div><div lang="sv" dir="ltr" class="idioms"><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Uttryck</span><span>: </span></span><ul class="idiomList"><li><span class="idiomHead" lang="sv" dir="ltr"><span><span>(kulturen) sitter trångt </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>(kulturen) har svårt att hävda sig</span></span></span></li><li><span class="idiomHead" lang="sv" dir="ltr"><span><span>sitter grensle över något </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>sitter med benen på var sin sida om något</span></span></span></li><li><span class="idiomHead" lang="sv" dir="ltr"><span><span>sitter i en rävsax </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>är i en svår situation</span></span></span></li><li><span class="idiomHead" lang="sv" dir="ltr"><span><span>sitter i kläm </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>har problem; slits mellan två möjligheter</span></span></span></li><li><span class="idiomHead" lang="sv" dir="ltr"><span><span>sitter mellan två stolar </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>har en svår situation, måste vara lojal mot två olika parter</span></span></span></li><li><span class="idiomHead" lang="sv" dir="ltr"><span><span>sitter på bänken </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>är avbytare i match</span></span></span></li><li><span class="idiomHead" lang="sv" dir="ltr"><span><span>sitter på huk </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>sitter hopkrupen utan underlag för bakdelen</span></span></span></li><li><span class="idiomHead" lang="sv" dir="ltr"><span><span>sitter som på nålar </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>sitter och är otålig eller ängslig</span></span></span></li><li><span class="idiomHead" lang="sv" dir="ltr"><span><span>sitter som spindeln i nätet </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>har kontroll över allting</span></span></span></li><li><span class="idiomHead" lang="sv" dir="ltr"><span><span>sitter säkert i sadeln </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>har en säker position</span></span></span></li><li><span class="idiomHead" lang="sv" dir="ltr"><span><span>sitter vid ratten </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>kör bil</span></span></span></li></ul></div></li></ol></div></div></li><li><div><div class="wordInfo"><div class="wordInfoMain"><span class="matchingWord" lang="sv" dir="ltr">sitter  (2)</span><span class="pronunciation"><span class="phonetic clickableHeading makeClickableHeadingsStandOut"> [sịt:er] </span></span><span class="PoS clickableHeading makeClickableHeadingsStandOut">verb<br></span><span class="inflections" lang="sv" dir="ltr"><span><span> (sitter ·  </span></span><span class="cueWord">att</span><span><span>&nbsp;sitta · satt ·  </span></span><span class="cueWord">har</span><span><span>&nbsp;suttit · – · sitt</span></span><span class="cueWord">!</span><span><span>) </span></span><br></span></div><div class="listenContainer"><div class="pronunciation"><div class="soundFiles"><button title="Lyssna på uttalet" type="button" lang="sv" dir="ltr"><div class="listenIcon"></div></button></div></div></div></div><div class="entryContent"><ol class="lexemeList"><li class="lexemeItem"><span lang="sv" dir="ltr" class="meaning"><span><span class="longClickLink">fungerar</span><span> </span><span class="longClickLink">som</span><span>, </span><span class="longClickLink">håller</span><span> </span><span class="longClickLink">på</span><span> </span><span class="longClickLink">med</span><span> </span><span class="longClickLink">en</span><span> </span><span class="longClickLink">viss</span><span> </span><span class="longClickLink">verksamhet</span></span></span><br><div class="examples"><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Exempel</span><span>: </span></span><ul class="exampleList"><li><span lang="sv" dir="ltr"><span>han ska sitta barnvakt i kväll</span></span></li><li><span lang="sv" dir="ltr"><span>hon fick sitta i fängelse i ett år</span></span></li></ul></div><div class="gramInfo" lang="sv" dir="ltr"><div lang="sv" dir="ltr"><img src="/disclosure.svg" class="expandGraminfoIcon"><span class="graminfoExplanationText">&lt;ngn sitter (som) ngn, ngn sitter i/vid/på ngt&gt;</span><div style="display: none;" class="graminfoExplanation">ngn = en person, ngt = en sak<ul><li><span><span></span><span class="metavariable">någon</span><span> sitter </span><span class="metavariable">någon</span><span></span></span></li><li><span><span></span><span class="metavariable">någon</span><span> sitter som </span><span class="metavariable">någon</span><span></span></span></li><li><span><span></span><span class="metavariable">någon</span><span> sitter i </span><span class="metavariable">något</span><span></span></span></li><li><span><span></span><span class="metavariable">någon</span><span> sitter vid </span><span class="metavariable">något</span><span></span></span></li><li><span><span></span><span class="metavariable">någon</span><span> sitter på </span><span class="metavariable">något</span><span></span></span></li></ul></div></div></div><div lang="sv" dir="ltr" class="idioms"><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Uttryck</span><span>: </span></span><ul class="idiomList"><li><span class="idiomHead" lang="sv" dir="ltr"><span><span>den sittande regeringen </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>den nuvarande regeringen</span></span></span></li></ul></div></li></ol></div></div></li><li><div><div class="wordInfo"><div class="wordInfoMain"><span class="matchingWord" lang="sv" dir="ltr">sitter  (3)</span><span class="pronunciation"><span class="phonetic clickableHeading makeClickableHeadingsStandOut"> [sịt:er] </span></span><span class="PoS clickableHeading makeClickableHeadingsStandOut">verb<br></span><span class="inflections" lang="sv" dir="ltr"><span><span> (sitter ·  </span></span><span class="cueWord">att</span><span><span>&nbsp;sitta · satt ·  </span></span><span class="cueWord">har</span><span><span>&nbsp;suttit · – · sitt</span></span><span class="cueWord">!</span><span><span>) </span></span><br></span></div><div class="listenContainer"><div class="pronunciation"><div class="soundFiles"><button title="Lyssna på uttalet" type="button" lang="sv" dir="ltr"><div class="listenIcon"></div></button></div></div></div></div><div class="entryContent"><ol class="lexemeList"><li class="lexemeItem"><span lang="sv" dir="ltr" class="meaning"><span><span class="longClickLink">är</span><span> </span><span class="longClickLink">placerad</span><span>; </span><span class="longClickLink">är</span><span> </span><span class="longClickLink">säkert</span><span> </span><span class="longClickLink">fäst</span></span></span><br><div class="examples"><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Exempel</span><span>: </span></span><ul class="exampleList"><li><span lang="sv" dir="ltr"><span>spiken satt som berget i väggen</span></span></li></ul></div><div class="gramInfo" lang="sv" dir="ltr"><div lang="sv" dir="ltr"><img src="/disclosure.svg" class="expandGraminfoIcon"><span class="graminfoExplanationText">&lt;ngt sitter PLATS&gt;</span><div style="display: none;" class="graminfoExplanation">ngn = en person, ngt = en sak<ul><li><span><span></span><span class="metavariable">något</span><span> sitter </span><span class="metavariable">plats</span><span></span></span></li></ul></div></div></div><div lang="sv" dir="ltr" class="idioms"><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Uttryck</span><span>: </span></span><ul class="idiomList"><li><span class="idiomHead" lang="sv" dir="ltr"><span><span>det sitter i generna </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>det är ärftligt</span></span></span></li><li><span class="idiomHead" lang="sv" dir="ltr"><span><span>något sitter i ryggmärgen </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>något finns instinktivt hos någon</span></span></span></li></ul></div></li></ol></div></div></li><li><div><div class="wordInfo"><div class="wordInfoMain"><span class="matchingWord" lang="sv" dir="ltr">sitter  (4)</span><span class="pronunciation"><span class="phonetic clickableHeading makeClickableHeadingsStandOut"> [sịt:er] </span></span><span class="PoS clickableHeading makeClickableHeadingsStandOut">verb<br></span><span class="inflections" lang="sv" dir="ltr"><span><span> (sitter ·  </span></span><span class="cueWord">att</span><span><span>&nbsp;sitta · satt ·  </span></span><span class="cueWord">har</span><span><span>&nbsp;suttit · – · sitt</span></span><span class="cueWord">!</span><span><span>) </span></span><br></span></div><div class="listenContainer"><div class="pronunciation"><div class="soundFiles"><button title="Lyssna på uttalet" type="button" lang="sv" dir="ltr"><div class="listenIcon"></div></button></div></div></div></div><div class="entryContent"><ol class="lexemeList"><li class="lexemeItem"><span lang="sv" dir="ltr" class="meaning"><span><span class="longClickLink">har</span><span> </span><span class="longClickLink">viss</span><span> </span><span class="longClickLink">passform</span><span>, </span><span class="longClickLink">passar</span><span> (</span><span class="longClickLink">om</span><span> </span><span class="longClickLink">kläder</span><span>)</span></span></span><br><div class="examples"><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Exempel</span><span>: </span></span><ul class="exampleList"><li><span lang="sv" dir="ltr"><span>byxorna sitter snyggt</span></span></li></ul></div><div class="gramInfo" lang="sv" dir="ltr"><div lang="sv" dir="ltr"><img src="/disclosure.svg" class="expandGraminfoIcon"><span class="graminfoExplanationText">&lt;ngt sitter SÄTT&gt;</span><div style="display: none;" class="graminfoExplanation">ngn = en person, ngt = en sak<ul><li><span><span></span><span class="metavariable">något</span><span> sitter </span><span class="metavariable">sätt</span><span></span></span></li></ul></div></div></div></li></ol></div></div></li></ul></div></div>
+      </div>
+    </main>
+
+    </div>
+
+
+    <div class="LexinExplanationsWrapper" id="LexinExplanationsWrapper">
+    </div>
+    <footer>
+    <ul>
+      <li> <a href="https://bildtema.isof.se/">Lexin bildtema</a>
+      </li><li> <a href="/lexinanim/">Lexin verbfilmer</a>
+      </li><li> <a href="/dialogteman/">Lexin dialogfilmer</a>
+      </li></ul>
+       <div class="isoflogowrapper">
+       <img alt="​&quot;Vit" logotyp="" isof"="" src="/logotyp-isof.svg">
+</div>
+<ul class="signoff">
+    <li>
+      Lexin publiceras av Institutet för språk och folkminnen.
+    </li>
+</ul>
+<ul class="lp-footer-menu">
+<li>
+<a class="normal" href="https://www.isof.se/vart-uppdrag/om-myndigheten">
+              <span>Om myndigheten Isof</span>                <svg aria-hidden="true" class="lp-icon">
+                  <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/lp-icons.svg#lp-chevron-right"></use>
+                </svg>            </a>
+</li>
+    <li>
+      <a href="https://www.isof.se/vart-uppdrag/om-myndigheten/om-webbplatsen/tillganglighetsredogorelse">Tillgänglighetsredogörelse <svg aria-hidden="true" class="lp-icon">
+                  <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/lp-icons.svg#lp-chevron-right"></use>
+                </svg></a>
+    </li>
+</ul>
+    </footer>
+    
+  
+
+</body>

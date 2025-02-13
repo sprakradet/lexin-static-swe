@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="/lexintest.css">
+    <meta name="theme-color" content="#1c3f49">
+    <title>Lexin – har</title>
+
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, shrink-to-fit=no, viewport-fit=cover">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="canonical" href="https://lexin.se/">
+    <link rel="apple-touch-icon" href="/lexin-small.png">
+
+    <link rel="stylesheet" href="/settings.css">
+  </head>
+
+  <body>
+    <div id="inputDiv">
+      
+      <form id="theForm" action="/">
+	<div class="headerrow">
+	  <h1 class="heading">LEXIN</h1>
+
+	<button title="Visa inställningar" class="settingsIcon" type="submit">
+	  <div class="settingsBar1"></div>
+	  <div class="settingsBar2"></div>
+	  <div class="settingsBar3"></div>
+	</button>
+
+      </div>
+      <div id="settingsFormValues"><input type="hidden" name="word" value="har"><input type="hidden" name="settings" value="show"></div>
+      </form>
+      
+    </div>
+
+    <form id="theForm2" action="/" class="permbar">
+	  <div class="inputwrapper">
+	    <input name="word" dir="auto" placeholder="Sök..." value="" id="searchQuery" autofocus="" autocorrect="off" autocapitalize="none" autocomplete="off">
+	    <input type="submit">
+	  </div>
+    </form>
+
+    <div class="content">
+    <main>
+      <div class="resultsAndLemmasContainer">
+
+	<div id="resultsDiv" aria-live="polite"><div lang="sv" dir="ltr"><ul class="resultList" lang="sv" dir="ltr"><li><div><div class="wordInfo"><div class="wordInfoMain"><span class="matchingWord" lang="sv" dir="ltr">har  (1)</span><span class="pronunciation"><span class="phonetic clickableHeading makeClickableHeadingsStandOut"> [ha:r] </span></span><span class="PoS clickableHeading makeClickableHeadingsStandOut">verb<br></span><span class="inflections" lang="sv" dir="ltr"><span><span> (har ·  </span></span><span class="cueWord">att</span><span><span>&nbsp;ha · hade ·  </span></span><span class="cueWord">har</span><span><span>&nbsp;haft · – · ha</span></span><span class="cueWord">!</span><span><span>) </span></span><br></span></div><div class="listenContainer"><div class="pronunciation"><div class="soundFiles"><button title="Lyssna på uttalet" type="button" lang="sv" dir="ltr"><div class="listenIcon"></div></button></div></div></div></div><div class="entryContent"><ol class="lexemeList"><li class="lexemeItem"><span class="gramUsage" lang="sv" dir="ltr"><span>(hjälpverb före verbets supinumform)</span></span><div class="examples"><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Exempel</span><span>: </span></span><ul class="exampleList"><li><span lang="sv" dir="ltr"><span>hon har bott här i fem år</span></span></li><li><span lang="sv" dir="ltr"><span>han hade aldrig varit i USA tidigare</span></span></li></ul></div><div class="gramInfo" lang="sv" dir="ltr"><div lang="sv" dir="ltr"><img src="/disclosure.svg" class="expandGraminfoIcon"><span class="graminfoExplanationText">&lt;ngn har VERB&gt;</span><div style="display: none;" class="graminfoExplanation">ngn = en person, ngt = en sak<ul><li><span><span></span><span class="metavariable">någon</span><span> har </span><span class="metavariable">verb</span><span></span></span></li></ul></div></div></div></li></ol></div></div></li><li><div><div class="wordInfo"><div class="wordInfoMain"><span class="matchingWord" lang="sv" dir="ltr">har  (2)</span><span class="pronunciation"><span class="phonetic clickableHeading makeClickableHeadingsStandOut"> [ha:r] </span></span><span class="PoS clickableHeading makeClickableHeadingsStandOut">verb<br></span><span class="inflections" lang="sv" dir="ltr"><span><span> (har ·  </span></span><span class="cueWord">att</span><span><span>&nbsp;ha · hade ·  </span></span><span class="cueWord">har</span><span><span>&nbsp;haft · – · ha</span></span><span class="cueWord">!</span><span><span>) </span></span><br></span></div><div class="listenContainer"><div class="pronunciation"><div class="soundFiles"><button title="Lyssna på uttalet" type="button" lang="sv" dir="ltr"><div class="listenIcon"></div></button></div></div></div></div><div class="entryContent"><ol class="lexemeList"><li class="lexemeItem"><span lang="sv" dir="ltr" class="meaning"><span><span class="longClickLink">äger</span><span>; </span><span class="longClickLink">är</span><span> </span><span class="longClickLink">försedd</span><span> </span><span class="longClickLink">med</span></span></span><br><div class="examples"><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Exempel</span><span>: </span></span><ul class="exampleList"><li><span lang="sv" dir="ltr"><span>han har både villa och sommarstuga</span></span></li><li><span lang="sv" dir="ltr"><span>hon har flera miljoner på banken</span></span></li><li><span lang="sv" dir="ltr"><span>han har blå ögon</span></span></li><li><span lang="sv" dir="ltr"><span>hon har två barn</span></span></li><li><span lang="sv" dir="ltr"><span>hon har inte tid</span></span></li><li><span lang="sv" dir="ltr"><span>Vill du ha en apelsin?</span></span></li><li><span lang="sv" dir="ltr"><span>huset har elvärme</span></span></li></ul></div><div class="gramInfo" lang="sv" dir="ltr"><div lang="sv" dir="ltr"><img src="/disclosure.svg" class="expandGraminfoIcon"><span class="graminfoExplanationText">&lt;ngn/ngt har ngn/ngt&gt;</span><div style="display: none;" class="graminfoExplanation">ngn = en person, ngt = en sak<ul><li><span><span></span><span class="metavariable">någon</span><span> har </span><span class="metavariable">någon</span><span></span></span></li><li><span><span></span><span class="metavariable">någon</span><span> har </span><span class="metavariable">något</span><span></span></span></li><li><span><span></span><span class="metavariable">något</span><span> har </span><span class="metavariable">någon</span><span></span></span></li><li><span><span></span><span class="metavariable">något</span><span> har </span><span class="metavariable">något</span><span></span></span></li></ul></div></div></div><div lang="sv" dir="ltr" class="idioms"><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Uttryck</span><span>: </span></span><ul class="idiomList"><li><span class="idiomHead" lang="sv" dir="ltr"><span><span>har att göra med </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>har kontakt med; angår, avser</span></span></span></li><li><span class="idiomHead" lang="sv" dir="ltr"><span><span>Har den äran (på födelsedagen)! </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>Gratulerar (på födelsedagen)!</span></span></span></li><li><span class="idiomHead" lang="sv" dir="ltr"><span><span>har en räv bakom örat </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>är listig</span></span></span></li><li><span class="idiomHead" lang="sv" dir="ltr"><span><span>har någon i sitt våld </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>behärskar någon helt och hållet</span></span></span></li><li><span class="idiomHead" lang="sv" dir="ltr"><span><span>har ordet </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>har tillfälle att yttra sig (i debatt e.d.)</span></span></span></li><li><span class="idiomHead" lang="sv" dir="ltr"><span><span>har råd med något </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>kan betala något</span></span></span></li><li><span class="idiomHead" lang="sv" dir="ltr"><span><span>har svårt att (komma) </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>kan knappast (komma)</span></span></span></li><li><span class="idiomHead" lang="sv" dir="ltr"><span><span>har sönder något </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>gör så att något blir trasigt</span></span></span></li></ul></div></li></ol></div></div></li></ul></div></div>
+      </div>
+    </main>
+
+    </div>
+
+
+    <div class="LexinExplanationsWrapper" id="LexinExplanationsWrapper">
+    </div>
+    <footer>
+    <ul>
+      <li> <a href="https://bildtema.isof.se/">Lexin bildtema</a>
+      </li><li> <a href="/lexinanim/">Lexin verbfilmer</a>
+      </li><li> <a href="/dialogteman/">Lexin dialogfilmer</a>
+      </li></ul>
+       <div class="isoflogowrapper">
+       <img alt="​&quot;Vit" logotyp="" isof"="" src="/logotyp-isof.svg">
+</div>
+<ul class="signoff">
+    <li>
+      Lexin publiceras av Institutet för språk och folkminnen.
+    </li>
+</ul>
+<ul class="lp-footer-menu">
+<li>
+<a class="normal" href="https://www.isof.se/vart-uppdrag/om-myndigheten">
+              <span>Om myndigheten Isof</span>                <svg aria-hidden="true" class="lp-icon">
+                  <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/lp-icons.svg#lp-chevron-right"></use>
+                </svg>            </a>
+</li>
+    <li>
+      <a href="https://www.isof.se/vart-uppdrag/om-myndigheten/om-webbplatsen/tillganglighetsredogorelse">Tillgänglighetsredogörelse <svg aria-hidden="true" class="lp-icon">
+                  <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/lp-icons.svg#lp-chevron-right"></use>
+                </svg></a>
+    </li>
+</ul>
+    </footer>
+    
+  
+
+</body>

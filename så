@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="/lexintest.css">
+    <meta name="theme-color" content="#1c3f49">
+    <title>Lexin – så</title>
+
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, shrink-to-fit=no, viewport-fit=cover">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="canonical" href="https://lexin.se/">
+    <link rel="apple-touch-icon" href="/lexin-small.png">
+
+    <link rel="stylesheet" href="/settings.css">
+  </head>
+
+  <body>
+    <div id="inputDiv">
+      
+      <form id="theForm" action="/">
+	<div class="headerrow">
+	  <h1 class="heading">LEXIN</h1>
+
+	<button title="Visa inställningar" class="settingsIcon" type="submit">
+	  <div class="settingsBar1"></div>
+	  <div class="settingsBar2"></div>
+	  <div class="settingsBar3"></div>
+	</button>
+
+      </div>
+      <div id="settingsFormValues"><input type="hidden" name="word" value="så"><input type="hidden" name="settings" value="show"></div>
+      </form>
+      
+    </div>
+
+    <form id="theForm2" action="/" class="permbar">
+	  <div class="inputwrapper">
+	    <input name="word" dir="auto" placeholder="Sök..." value="" id="searchQuery" autofocus="" autocorrect="off" autocapitalize="none" autocomplete="off">
+	    <input type="submit">
+	  </div>
+    </form>
+
+    <div class="content">
+    <main>
+      <div class="resultsAndLemmasContainer">
+
+	<div id="resultsDiv" aria-live="polite"><div lang="sv" dir="ltr"><ul class="resultList" lang="sv" dir="ltr"><li><div><div class="wordInfo"><div class="wordInfoMain"><span class="matchingWord" lang="sv" dir="ltr">så (1) (1)</span><span class="pronunciation"><span class="phonetic clickableHeading makeClickableHeadingsStandOut"> [så:] </span></span><span class="PoS clickableHeading makeClickableHeadingsStandOut">adverb<br></span></div><div class="listenContainer"><div class="pronunciation"><div class="soundFiles"><button title="Lyssna på uttalet" type="button" lang="sv" dir="ltr"><div class="listenIcon"></div></button></div></div></div></div><div class="entryContent"><ol class="lexemeList"><li class="lexemeItem"><span lang="sv" dir="ltr" class="meaning"><span><span class="longClickLink">på</span><span> </span><span class="longClickLink">det</span><span> </span><span class="longClickLink">sättet</span></span></span><br><div class="examples"><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Exempel</span><span>: </span></span><ul class="exampleList"><li><span lang="sv" dir="ltr"><span>Du ska inte göra så, utan så här!</span></span></li></ul></div><div lang="sv" dir="ltr" class="idioms"><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Uttryck</span><span>: </span></span><ul class="idiomList"><li><span class="idiomHead" lang="sv" dir="ltr"><span><span>det är si och så (med någon/något) </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>det är inte så bra (med någon/något)</span></span></span></li><li><span class="idiomHead" lang="sv" dir="ltr"><span><span>så att säga </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>för att uttrycka sig så</span></span></span></li><li><span class="idiomHead" lang="sv" dir="ltr"><span><span>så här </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>på det här sättet</span></span></span></li><li><span class="idiomHead" lang="sv" dir="ltr"><span><span>så kallad (s.k.) </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>vad man brukar kalla</span></span></span></li></ul></div></li></ol></div></div></li><li><div><div class="wordInfo"><div class="wordInfoMain"><span class="matchingWord" lang="sv" dir="ltr">så (1) (2)</span><span class="pronunciation"><span class="phonetic clickableHeading makeClickableHeadingsStandOut"> [så:] </span></span><span class="PoS clickableHeading makeClickableHeadingsStandOut">adverb<br></span></div><div class="listenContainer"><div class="pronunciation"><div class="soundFiles"><button title="Lyssna på uttalet" type="button" lang="sv" dir="ltr"><div class="listenIcon"></div></button></div></div></div></div><div class="entryContent"><ol class="lexemeList"><li class="lexemeItem"><span lang="sv" dir="ltr" class="meaning"><span><span class="longClickLink">till</span><span> </span><span class="longClickLink">den</span><span> </span><span class="longClickLink">grad</span><span>, </span><span class="longClickLink">lika</span></span></span><br><div class="examples"><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Exempel</span><span>: </span></span><ul class="exampleList"><li><span lang="sv" dir="ltr"><span>aktiviteten i klubben har aldrig varit så stor som nu</span></span></li><li><span lang="sv" dir="ltr"><span>det var så kallt att hon förfrös tårna</span></span></li></ul></div><div lang="sv" dir="ltr" class="idioms"><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Uttryck</span><span>: </span></span><ul class="idiomList"><li><span class="idiomHead" lang="sv" dir="ltr"><span><span>något så när </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>någorlunda (bra)</span></span></span></li><li><span class="idiomHead" lang="sv" dir="ltr"><span><span>så gott som </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>nästan</span></span></span></li></ul></div></li></ol></div></div></li><li><div><div class="wordInfo"><div class="wordInfoMain"><span class="matchingWord" lang="sv" dir="ltr">så (1) (3)</span><span class="pronunciation"><span class="phonetic clickableHeading makeClickableHeadingsStandOut"> [så:] </span></span><span class="PoS clickableHeading makeClickableHeadingsStandOut">adverb<br></span></div><div class="listenContainer"><div class="pronunciation"><div class="soundFiles"><button title="Lyssna på uttalet" type="button" lang="sv" dir="ltr"><div class="listenIcon"></div></button></div></div></div></div><div class="entryContent"><ol class="lexemeList"><li class="lexemeItem"><span class="gramUsage" lang="sv" dir="ltr"><span>(anger följd i huvudsats efter bisats)</span></span><div class="examples"><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Exempel</span><span>: </span></span><ul class="exampleList"><li><span lang="sv" dir="ltr"><span>Om jag kan, så kommer jag!</span></span></li></ul></div></li></ol></div></div></li><li><div><div class="wordInfo"><div class="wordInfoMain"><span class="matchingWord" lang="sv" dir="ltr">så (2)</span><span class="pronunciation"><span class="phonetic clickableHeading makeClickableHeadingsStandOut"> [så:] </span></span><span class="PoS clickableHeading makeClickableHeadingsStandOut">konjunktion<br></span></div><div class="listenContainer"><div class="pronunciation"><div class="soundFiles"><button title="Lyssna på uttalet" type="button" lang="sv" dir="ltr"><div class="listenIcon"></div></button></div></div></div></div><div class="entryContent"><ol class="lexemeList"><li class="lexemeItem"><span lang="sv" dir="ltr" class="meaning"><span><span class="longClickLink">följaktligen</span></span></span><br><div class="examples"><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Exempel</span><span>: </span></span><ul class="exampleList"><li><span lang="sv" dir="ltr"><span>väckarklockan ringde inte, så hon vaknade för sent</span></span></li></ul></div></li></ol></div></div></li><li><div><div class="wordInfo"><div class="wordInfoMain"><span class="matchingWord" lang="sv" dir="ltr">så (3)</span><span class="pronunciation"><span class="phonetic clickableHeading makeClickableHeadingsStandOut"> [så:] </span></span><span class="PoS clickableHeading makeClickableHeadingsStandOut">pronomen<br></span></div><div class="listenContainer"><div class="pronunciation"><div class="soundFiles"><button title="Lyssna på uttalet" type="button" lang="sv" dir="ltr"><div class="listenIcon"></div></button></div></div></div></div><div class="entryContent"><ol class="lexemeList"><li class="lexemeItem"><div lang="sv" dir="ltr" class="idioms"><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Uttryck</span><span>: </span></span><ul class="idiomList"><li><span class="idiomHead" lang="sv" dir="ltr"><span><span>i så fall </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>under sådana omständigheter</span></span></span></li><li><span class="idiomHead" lang="sv" dir="ltr"><span><span>på så sätt </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>jaså</span></span></span></li><li><span class="idiomHead" lang="sv" dir="ltr"><span><span>på så vis </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>jaså</span></span></span></li><li><span class="idiomHead" lang="sv" dir="ltr"><span><span>så pass </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>ungefär så</span></span></span></li></ul></div></li></ol></div></div></li><li><div><div class="wordInfo"><div class="wordInfoMain"><span class="matchingWord" lang="sv" dir="ltr">sår (2)</span><span class="pronunciation"><span class="phonetic clickableHeading makeClickableHeadingsStandOut"> [så:r] </span></span><span class="PoS clickableHeading makeClickableHeadingsStandOut">verb<br></span><span class="inflections" lang="sv" dir="ltr"><span><span> (sår ·  </span></span><span class="cueWord">att</span><span><span>&nbsp;så · sådde ·  </span></span><span class="cueWord">har</span><span><span>&nbsp;sått ·  </span></span><span class="cueWord">är</span><span><span>&nbsp;sådd · så</span></span><span class="cueWord">!</span><span><span>) </span></span><br></span></div><div class="listenContainer"><div class="pronunciation"><div class="soundFiles"><button title="Lyssna på uttalet" type="button" lang="sv" dir="ltr"><div class="listenIcon"></div></button></div></div></div></div><div class="entryContent"><ol class="lexemeList"><li class="lexemeItem"><span lang="sv" dir="ltr" class="meaning"><span><span class="longClickLink">lägger</span><span> </span><span class="longClickLink">ner</span><span> </span><span class="longClickLink">frön</span><span> </span><span class="longClickLink">i</span><span> </span><span class="longClickLink">jorden</span></span></span><br><div class="referenceContainer"><div><span class="referenceHead clickableHeading makeClickableHeadingsStandOut" lang="sv" dir="ltr">Video: </span><a class="referenceInfo" href="http://lexin.nada.kth.se/lang/lexinanim/sar.mp4" lang="sv" dir="ltr">Visa film</a><div class="picWrap" title="Titta på videoklippet" lang="sv" dir="ltr"><img src="video.svg" class="vidIcon"></div></div></div><div class="referenceContainer"><span class="antonym"><span class="referenceHead clickableHeading makeClickableHeadingsStandOut" lang="sv" dir="ltr">Motsats</span><span>: </span><span class="referenceInfo" lang="sv" dir="ltr"><a href="https://lexin.se/?&amp;word=skördar">skördar</a></span></span></div><div class="examples"><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Exempel</span><span>: </span></span><ul class="exampleList"><li><span lang="sv" dir="ltr"><span>Så fröna i rader med 10 cm mellanrum!</span></span></li></ul></div><div class="gramInfo" lang="sv" dir="ltr"><div lang="sv" dir="ltr"><img src="/disclosure.svg" class="expandGraminfoIcon"><span class="graminfoExplanationText">&lt;ngn sår (ngt)&gt;</span><div style="display: none;" class="graminfoExplanation">ngn = en person, ngt = en sak<ul><li><span><span></span><span class="metavariable">någon</span><span> sår</span><span></span></span></li><li><span><span></span><span class="metavariable">någon</span><span> sår </span><span class="metavariable">något</span><span></span></span></li></ul></div></div></div></li></ol></div></div></li></ul></div></div>
+      </div>
+    </main>
+
+    </div>
+
+
+    <div class="LexinExplanationsWrapper" id="LexinExplanationsWrapper">
+    </div>
+    <footer>
+    <ul>
+      <li> <a href="https://bildtema.isof.se/">Lexin bildtema</a>
+      </li><li> <a href="/lexinanim/">Lexin verbfilmer</a>
+      </li><li> <a href="/dialogteman/">Lexin dialogfilmer</a>
+      </li></ul>
+       <div class="isoflogowrapper">
+       <img alt="​&quot;Vit" logotyp="" isof"="" src="/logotyp-isof.svg">
+</div>
+<ul class="signoff">
+    <li>
+      Lexin publiceras av Institutet för språk och folkminnen.
+    </li>
+</ul>
+<ul class="lp-footer-menu">
+<li>
+<a class="normal" href="https://www.isof.se/vart-uppdrag/om-myndigheten">
+              <span>Om myndigheten Isof</span>                <svg aria-hidden="true" class="lp-icon">
+                  <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/lp-icons.svg#lp-chevron-right"></use>
+                </svg>            </a>
+</li>
+    <li>
+      <a href="https://www.isof.se/vart-uppdrag/om-myndigheten/om-webbplatsen/tillganglighetsredogorelse">Tillgänglighetsredogörelse <svg aria-hidden="true" class="lp-icon">
+                  <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/lp-icons.svg#lp-chevron-right"></use>
+                </svg></a>
+    </li>
+</ul>
+    </footer>
+    
+  
+
+</body>

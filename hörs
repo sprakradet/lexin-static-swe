@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="/lexintest.css">
+    <meta name="theme-color" content="#1c3f49">
+    <title>Lexin – hörs</title>
+
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, shrink-to-fit=no, viewport-fit=cover">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="canonical" href="https://lexin.se/">
+    <link rel="apple-touch-icon" href="/lexin-small.png">
+
+    <link rel="stylesheet" href="/settings.css">
+  </head>
+
+  <body>
+    <div id="inputDiv">
+      
+      <form id="theForm" action="/">
+	<div class="headerrow">
+	  <h1 class="heading">LEXIN</h1>
+
+	<button title="Visa inställningar" class="settingsIcon" type="submit">
+	  <div class="settingsBar1"></div>
+	  <div class="settingsBar2"></div>
+	  <div class="settingsBar3"></div>
+	</button>
+
+      </div>
+      <div id="settingsFormValues"><input type="hidden" name="word" value="hörs"><input type="hidden" name="settings" value="show"></div>
+      </form>
+      
+    </div>
+
+    <form id="theForm2" action="/" class="permbar">
+	  <div class="inputwrapper">
+	    <input name="word" dir="auto" placeholder="Sök..." value="" id="searchQuery" autofocus="" autocorrect="off" autocapitalize="none" autocomplete="off">
+	    <input type="submit">
+	  </div>
+    </form>
+
+    <div class="content">
+    <main>
+      <div class="resultsAndLemmasContainer">
+
+	<div id="resultsDiv" aria-live="polite"><div lang="sv" dir="ltr"><ul class="resultList" lang="sv" dir="ltr"><li><div><div class="wordInfo"><div class="wordInfoMain"><span class="matchingWord" lang="sv" dir="ltr">hörs </span><span class="pronunciation"><span class="phonetic clickableHeading makeClickableHeadingsStandOut"> [hö:r‿s] </span></span><span class="PoS clickableHeading makeClickableHeadingsStandOut">verb<br></span><span class="inflections" lang="sv" dir="ltr"><span><span> (hörs ·  </span></span><span class="cueWord">att</span><span><span>&nbsp;höras · hördes ·  </span></span><span class="cueWord">har</span><span><span>&nbsp;hörts · – · –) </span></span><br></span></div><div class="listenContainer"><div class="pronunciation"><div class="soundFiles"><button title="Lyssna på uttalet" type="button" lang="sv" dir="ltr"><div class="listenIcon"></div></button></div></div></div></div><div class="entryContent"><ol class="lexemeList"><li class="lexemeItem"><span lang="sv" dir="ltr" class="meaning"><span><span class="longClickLink">är</span><span> </span><span class="longClickLink">möjlig</span><span> </span><span class="longClickLink">att</span><span> </span><span class="longClickLink">höra</span><span>&nbsp;(</span><span class="longClickLink">1</span><span>)</span></span></span><br><div class="examples"><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Exempel</span><span>: </span></span><ul class="exampleList"><li><span lang="sv" dir="ltr"><span>Hörs det bra längst bak i salen?</span></span></li><li><span lang="sv" dir="ltr"><span>barnen hördes på långt håll</span></span></li></ul></div><div class="gramInfo" lang="sv" dir="ltr"><div lang="sv" dir="ltr"><img src="/disclosure.svg" class="expandGraminfoIcon"><span class="graminfoExplanationText">&lt;ngn/ngt/det hörs&gt;</span><div style="display: none;" class="graminfoExplanation">ngn = en person, ngt = en sak<ul><li><span><span></span><span class="metavariable">någon</span><span> hörs</span><span></span></span></li><li><span><span></span><span class="metavariable">något</span><span> hörs</span><span></span></span></li><li><span><span></span><span>det hörs</span><span></span></span></li></ul></div></div></div></li></ol></div></div></li><li><div><div class="wordInfo"><div class="wordInfoMain"><span class="matchingWord" lang="sv" dir="ltr">hör  (1)</span><img src="/submenuBlack.svg" class="expandResultsIcon"><span class="pronunciation notRelevant" style=""><span class="phonetic clickableHeading makeClickableHeadingsStandOut"> [hö:r] </span></span><span class="PoS notRelevant clickableHeading makeClickableHeadingsStandOut" style="">verb<br></span><span class=" notRelevant" lang="sv" dir="ltr" style=""><span><span> (hör ·  </span></span><span class="cueWord">att</span><span><span>&nbsp;höra · hörde ·  </span></span><span class="cueWord">har</span><span><span>&nbsp;hört ·  </span></span><span class="cueWord">är</span><span><span>&nbsp;hörd · hör</span></span><span class="cueWord">!</span><span><span>) </span></span><br></span></div><div class="listenContainer"><div class="pronunciation notRelevant" style=""><div class="soundFiles"><button title="Lyssna på uttalet" type="button" lang="sv" dir="ltr"><div class="listenIcon"></div></button></div></div></div></div><div class="entryContent"><ol class="lexemeList"><li class="lexemeItem"><span lang="sv" dir="ltr" class="meaning notRelevant" style=""><span><span class="longClickLink">uppfattar</span><span> </span><span class="longClickLink">med</span><span> </span><span class="longClickLink">öronen</span><span>, </span><span class="longClickLink">lyssnar</span><span>; </span><span class="longClickLink">får</span><span> </span><span class="longClickLink">veta</span></span></span><br><div class="examples notRelevant" style=""><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Exempel</span><span>: </span></span><ul class="exampleList"><li class=" notRelevant" style=""><span lang="sv" dir="ltr"><span>Jag hör inte, kan du tala högre?</span></span></li><li class=" notRelevant" style=""><span lang="sv" dir="ltr"><span>Jag hörde att han har kommit hem till Sverige!</span></span></li></ul></div><div class=" notRelevant" lang="sv" dir="ltr" style=""><div lang="sv" dir="ltr"><img src="/disclosure.svg" class="expandGraminfoIcon"><span class="graminfoExplanationText">&lt;ngn hör ngt/SATS&gt;</span><div style="display: none;" class="graminfoExplanation">ngn = en person, ngt = en sak<ul><li><span><span></span><span class="metavariable">någon</span><span> hör </span><span class="metavariable">något</span><span></span></span></li><li><span><span></span><span class="metavariable">någon</span><span> hör </span><span class="metavariable">sats</span><span></span></span></li></ul></div></div></div><div lang="sv" dir="ltr" class="idioms notRelevant" style=""><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Uttryck</span><span>: </span></span><ul class="idiomList"><li class=" notRelevant" style=""><span class="idiomHead" lang="sv" dir="ltr"><span><span>gör sin röst hörd </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>uttrycker sina åsikter</span></span></span></li><li class=" notRelevant" style=""><span class="idiomHead" lang="sv" dir="ltr"><span><span>Har du hört på maken? </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>Har du hört något liknande?</span></span></span></li><li class=" notRelevant" style=""><span class="idiomHead" lang="sv" dir="ltr"><span><span>hör något till leda </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>hör något så ofta att man blir uttråkad</span></span></span></li></ul></div></li></ol></div></div></li><li><div><div class="wordInfo"><div class="wordInfoMain"><span class="matchingWord" lang="sv" dir="ltr">hör  (2)</span><img src="/submenuBlack.svg" class="expandResultsIcon"><span class="pronunciation notRelevant" style=""><span class="phonetic clickableHeading makeClickableHeadingsStandOut"> [hö:r] </span></span><span class="PoS notRelevant clickableHeading makeClickableHeadingsStandOut" style="">verb<br></span><span class=" notRelevant" lang="sv" dir="ltr" style=""><span><span> (hör ·  </span></span><span class="cueWord">att</span><span><span>&nbsp;höra · hörde ·  </span></span><span class="cueWord">har</span><span><span>&nbsp;hört ·  </span></span><span class="cueWord">är</span><span><span>&nbsp;hörd · hör</span></span><span class="cueWord">!</span><span><span>) </span></span><br></span></div><div class="listenContainer"><div class="pronunciation notRelevant" style=""><div class="soundFiles"><button title="Lyssna på uttalet" type="button" lang="sv" dir="ltr"><div class="listenIcon"></div></button></div></div></div></div><div class="entryContent"><ol class="lexemeList"><li class="lexemeItem"><span lang="sv" dir="ltr" class="meaning notRelevant" style=""><span><span class="longClickLink">är</span><span> </span><span class="longClickLink">del</span><span> </span><span class="longClickLink">av</span><span>, </span><span class="longClickLink">tillhör</span></span></span><br><div class="examples notRelevant" style=""><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Exempel</span><span>: </span></span><ul class="exampleList"><li class=" notRelevant" style=""><span lang="sv" dir="ltr"><span>Sverige hör till EU sedan 1994</span></span></li></ul></div><div class=" notRelevant" lang="sv" dir="ltr" style=""><div lang="sv" dir="ltr"><img src="/disclosure.svg" class="expandGraminfoIcon"><span class="graminfoExplanationText">&lt;ngn/ngt hör till några/ngt&gt;</span><div style="display: none;" class="graminfoExplanation">ngn = en person, ngt = en sak<ul><li><span><span></span><span class="metavariable">någon</span><span> hör till </span><span class="metavariable">några</span><span></span></span></li><li><span><span></span><span class="metavariable">någon</span><span> hör till </span><span class="metavariable">något</span><span></span></span></li><li><span><span></span><span class="metavariable">något</span><span> hör till </span><span class="metavariable">några</span><span></span></span></li><li><span><span></span><span class="metavariable">något</span><span> hör till </span><span class="metavariable">något</span><span></span></span></li></ul></div></div></div><ul class="cycleList notRelevant" style=""><li class="cycle notRelevant" style=""><span class="comment_se notRelevant" style=""><span class="comment" lang="sv" dir="ltr"><span><span>&lt;även&gt; </span></span></span></span><span class="meaning notRelevant" lang="sv" dir="ltr" style=""><span><span>räknas (till)</span></span></span><br><div class="examples notRelevant" style=""><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Exempel</span><span>: </span></span><ul class="exampleList"><li class=" notRelevant" style=""><span lang="sv" dir="ltr"><span>hon hör till de bästa i världen i höjdhopp</span></span></li></ul></div></li></ul><div lang="sv" dir="ltr" class="idioms notRelevant" style=""><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Uttryck</span><span>: </span></span><ul class="idiomList"><li class=" notRelevant" style=""><span class="idiomHead" lang="sv" dir="ltr"><span><span>hör hemma </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>har sin rätta plats</span></span></span></li></ul></div></li></ol></div></div></li></ul></div></div>
+      </div>
+    </main>
+
+    </div>
+
+
+    <div class="LexinExplanationsWrapper" id="LexinExplanationsWrapper">
+    </div>
+    <footer>
+    <ul>
+      <li> <a href="https://bildtema.isof.se/">Lexin bildtema</a>
+      </li><li> <a href="/lexinanim/">Lexin verbfilmer</a>
+      </li><li> <a href="/dialogteman/">Lexin dialogfilmer</a>
+      </li></ul>
+       <div class="isoflogowrapper">
+       <img alt="​&quot;Vit" logotyp="" isof"="" src="/logotyp-isof.svg">
+</div>
+<ul class="signoff">
+    <li>
+      Lexin publiceras av Institutet för språk och folkminnen.
+    </li>
+</ul>
+<ul class="lp-footer-menu">
+<li>
+<a class="normal" href="https://www.isof.se/vart-uppdrag/om-myndigheten">
+              <span>Om myndigheten Isof</span>                <svg aria-hidden="true" class="lp-icon">
+                  <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/lp-icons.svg#lp-chevron-right"></use>
+                </svg>            </a>
+</li>
+    <li>
+      <a href="https://www.isof.se/vart-uppdrag/om-myndigheten/om-webbplatsen/tillganglighetsredogorelse">Tillgänglighetsredogörelse <svg aria-hidden="true" class="lp-icon">
+                  <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/lp-icons.svg#lp-chevron-right"></use>
+                </svg></a>
+    </li>
+</ul>
+    </footer>
+    
+  
+
+</body>

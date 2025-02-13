@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="/lexintest.css">
+    <meta name="theme-color" content="#1c3f49">
+    <title>Lexin – special-</title>
+
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, shrink-to-fit=no, viewport-fit=cover">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="canonical" href="https://lexin.se/">
+    <link rel="apple-touch-icon" href="/lexin-small.png">
+
+    <link rel="stylesheet" href="/settings.css">
+  </head>
+
+  <body>
+    <div id="inputDiv">
+      
+      <form id="theForm" action="/">
+	<div class="headerrow">
+	  <h1 class="heading">LEXIN</h1>
+
+	<button title="Visa inställningar" class="settingsIcon" type="submit">
+	  <div class="settingsBar1"></div>
+	  <div class="settingsBar2"></div>
+	  <div class="settingsBar3"></div>
+	</button>
+
+      </div>
+      <div id="settingsFormValues"><input type="hidden" name="word" value="special-"><input type="hidden" name="settings" value="show"></div>
+      </form>
+      
+    </div>
+
+    <form id="theForm2" action="/" class="permbar">
+	  <div class="inputwrapper">
+	    <input name="word" dir="auto" placeholder="Sök..." value="" id="searchQuery" autofocus="" autocorrect="off" autocapitalize="none" autocomplete="off">
+	    <input type="submit">
+	  </div>
+    </form>
+
+    <div class="content">
+    <main>
+      <div class="resultsAndLemmasContainer">
+
+	<div id="resultsDiv" aria-live="polite"><div lang="sv" dir="ltr"><ul class="resultList" lang="sv" dir="ltr"><li><div><div class="wordInfo"><div class="wordInfoMain"><span class="matchingWord" lang="sv" dir="ltr">special- </span><span class="pronunciation"><span class="phonetic clickableHeading makeClickableHeadingsStandOut"> [²spesiạ:l-] </span></span><span class="PoS clickableHeading makeClickableHeadingsStandOut">förled<br></span></div><div class="listenContainer"><div class="pronunciation"><div class="soundFiles"><button title="Lyssna på uttalet" type="button" lang="sv" dir="ltr"><div class="listenIcon"></div></button></div></div></div></div><div class="entryContent"><ol class="lexemeList"><li class="lexemeItem"><span lang="sv" dir="ltr" class="meaning"><span><span class="longClickLink">avsedd</span><span> </span><span class="longClickLink">för</span><span> </span><span class="longClickLink">visst</span><span> </span><span class="longClickLink">ändamål</span><span>, </span><span class="longClickLink">speciell</span></span></span><br><div class="compounds"><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Sammansättningar</span><span>: </span></span><ul class="compoundList"><li><span lang="sv" dir="ltr"><span>special|domstol</span></span></li><li><span lang="sv" dir="ltr"><span>special|fordon</span></span></li><li><span lang="sv" dir="ltr"><span>special|område</span></span></li><li><span lang="sv" dir="ltr"><span>special|undervisning</span></span></li></ul></div></li></ol></div></div></li><li><div><div class="wordInfo"><div class="wordInfoMain"><span class="matchingWord" lang="sv" dir="ltr">special|skola </span><span class="pronunciation"><span class="phonetic clickableHeading makeClickableHeadingsStandOut"> [²spesiạ:lsko:la] </span></span><span class="PoS clickableHeading makeClickableHeadingsStandOut">substantiv<br></span><span class="inflections" lang="sv" dir="ltr"><span><span> (special|skola · specialskolan · specialskolor · specialskolorna) </span></span><br></span></div><div class="listenContainer"><div class="pronunciation"><div class="soundFiles"><button title="Lyssna på uttalet" type="button" lang="sv" dir="ltr"><div class="listenIcon"></div></button></div></div></div></div><div class="entryContent"><ol class="lexemeList"><li class="lexemeItem"><span lang="sv" dir="ltr" class="meaning"><span><span class="longClickLink">skola</span><span> </span><span class="longClickLink">för</span><span> </span><span class="longClickLink">elever</span><span> </span><span class="longClickLink">med</span><span> </span><span class="longClickLink">funktionshinder</span><span> </span><span class="longClickLink">i</span><span> </span><span class="longClickLink">fråga</span><span> </span><span class="longClickLink">om</span><span> </span><span class="longClickLink">syn</span><span>, </span><span class="longClickLink">hörsel</span><span> </span><span class="longClickLink">eller</span><span> </span><span class="longClickLink">tal</span></span></span><br></li></ol></div></div></li><li><div><div class="wordInfo"><div class="wordInfoMain"><span class="matchingWord" lang="sv" dir="ltr">special|undervisning </span><span class="pronunciation"><span class="phonetic clickableHeading makeClickableHeadingsStandOut"> [²spesiạ:lun:dervi:sniŋ] </span></span><span class="PoS clickableHeading makeClickableHeadingsStandOut">substantiv<br></span><span class="inflections" lang="sv" dir="ltr"><span><span> (special|undervisning · specialundervisningen · – · –) </span></span><br></span></div><div class="listenContainer"><div class="pronunciation"><div class="soundFiles"><button title="Lyssna på uttalet" type="button" lang="sv" dir="ltr"><div class="listenIcon"></div></button></div></div></div></div><div class="entryContent"><ol class="lexemeList"><li class="lexemeItem"><span lang="sv" dir="ltr" class="meaning"><span><span class="longClickLink">en</span><span> </span><span class="longClickLink">särskild</span><span> </span><span class="longClickLink">form</span><span> </span><span class="longClickLink">av</span><span> </span><span class="longClickLink">undervisning</span><span> </span><span class="longClickLink">för</span><span> </span><span class="longClickLink">elever</span><span> </span><span class="longClickLink">med</span><span> </span><span class="longClickLink">problem</span></span></span><br></li></ol></div></div></li><li><div><div class="wordInfo"><div class="wordInfoMain"><span class="matchingWord" lang="sv" dir="ltr">fall  (3)</span><img src="/submenuBlack.svg" class="expandResultsIcon"><span class="pronunciation notRelevant" style=""><span class="phonetic clickableHeading makeClickableHeadingsStandOut"> [fal:] </span></span><span class="PoS notRelevant clickableHeading makeClickableHeadingsStandOut" style="">substantiv<br></span><span class=" notRelevant" lang="sv" dir="ltr" style=""><span><span> (fall · fallet · fall · fallen) </span></span><br></span></div><div class="listenContainer"><div class="pronunciation notRelevant" style=""><div class="soundFiles"><button title="Lyssna på uttalet" type="button" lang="sv" dir="ltr"><div class="listenIcon"></div></button></div></div></div></div><div class="entryContent"><ol class="lexemeList"><li class="lexemeItem"><span lang="sv" dir="ltr" class="meaning notRelevant" style=""><span><span class="longClickLink">händelse</span><span>, </span><span class="longClickLink">tillfälle</span><span>; </span><span class="longClickLink">exempel</span><span>&nbsp;(</span><span class="longClickLink">2</span><span>)</span></span></span><br><div class="compounds"><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Sammansättningar</span><span>: </span></span><ul class="compoundList"><li class=" notRelevant" style=""><span lang="sv" dir="ltr"><span>fall|studie</span></span></li><li><span lang="sv" dir="ltr"><span>special|fall</span></span></li></ul></div><div class="examples notRelevant" style=""><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Exempel</span><span>: </span></span><ul class="exampleList"><li class=" notRelevant" style=""><span lang="sv" dir="ltr"><span>i många fall är det bättre att åka tåg än att ta bilen</span></span></li></ul></div><ul class="cycleList notRelevant" style=""><li class="cycle notRelevant" style=""><span class="comment_se notRelevant" style=""><span class="comment" lang="sv" dir="ltr"><span><span>&lt;speciellt i juridik&gt; </span></span></span></span><div class="compounds notRelevant" style=""><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Sammansättning</span><span>: </span></span><ul class="compoundList"><li class=" notRelevant" style=""><span lang="sv" dir="ltr"><span>rätts|fall</span></span></li></ul></div><div class="examples notRelevant" style=""><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Exempel</span><span>: </span></span><ul class="exampleList"><li class=" notRelevant" style=""><span lang="sv" dir="ltr"><span>advokat Alphin åtog sig fallet</span></span></li></ul></div></li></ul><div lang="sv" dir="ltr" class="idioms notRelevant" style=""><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Uttryck</span><span>: </span></span><ul class="idiomList"><li class=" notRelevant" style=""><span class="idiomHead" lang="sv" dir="ltr"><span><span>ett ömmande fall </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>ett fall som väcker ens medkänsla</span></span></span></li><li class=" notRelevant" style=""><span class="idiomHead" lang="sv" dir="ltr"><span><span>i alla fall </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>hur som helst, trots allt</span></span></span></li><li class=" notRelevant" style=""><span class="idiomHead" lang="sv" dir="ltr"><span><span>i förekommande fall </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>om det är aktuellt</span></span></span></li><li class=" notRelevant" style=""><span class="idiomHead" lang="sv" dir="ltr"><span><span>i så fall </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>under sådana omständigheter</span></span></span></li><li class=" notRelevant" style=""><span class="idiomHead" lang="sv" dir="ltr"><span><span>i vanliga fall </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>i allmänhet, ofta</span></span></span></li><li class=" notRelevant" style=""><span class="idiomHead" lang="sv" dir="ltr"><span><span>i varje fall </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>under alla omständigheter; åtminstone</span></span></span></li><li class=" notRelevant" style=""><span class="idiomHead" lang="sv" dir="ltr"><span><span>i vissa fall </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>ibland</span></span></span></li><li class=" notRelevant" style=""><span class="idiomHead" lang="sv" dir="ltr"><span><span>i värsta fall </span></span></span><span class="idiomTail" lang="sv" dir="ltr"><span><span>om det går riktigt illa</span></span></span></li></ul></div></li></ol></div></div></li><li><div><div class="wordInfo"><div class="wordInfoMain"><span class="matchingWord" lang="sv" dir="ltr">funktion  (1)</span><img src="/submenuBlack.svg" class="expandResultsIcon"><span class="pronunciation notRelevant" style=""><span class="phonetic clickableHeading makeClickableHeadingsStandOut"> [fuŋkʃọ:n] </span></span><span class="PoS notRelevant clickableHeading makeClickableHeadingsStandOut" style="">substantiv<br></span><span class=" notRelevant" lang="sv" dir="ltr" style=""><span><span> (funktion · funktionen · funktioner · funktionerna) </span></span><br></span></div><div class="listenContainer"><div class="pronunciation notRelevant" style=""><div class="soundFiles"><button title="Lyssna på uttalet" type="button" lang="sv" dir="ltr"><div class="listenIcon"></div></button></div></div></div></div><div class="entryContent"><ol class="lexemeList"><li class="lexemeItem"><span lang="sv" dir="ltr" class="meaning notRelevant" style=""><span><span class="longClickLink">sätt</span><span> </span><span class="longClickLink">att</span><span> </span><span class="longClickLink">fungera</span><span>, </span><span class="longClickLink">verksamhet</span></span></span><br><div class="compounds"><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Sammansättningar</span><span>: </span></span><ul class="compoundList"><li class=" notRelevant" style=""><span lang="sv" dir="ltr"><span>funktions|duglig</span></span></li><li><span lang="sv" dir="ltr"><span>special|funktion</span></span></li></ul></div><div class="examples notRelevant" style=""><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Exempel</span><span>: </span></span><ul class="exampleList"><li class=" notRelevant" style=""><span lang="sv" dir="ltr"><span>maskinen är ur funktion</span></span></li></ul></div></li></ol></div></div></li><li><div><div class="wordInfo"><div class="wordInfoMain"><span class="matchingWord" lang="sv" dir="ltr">ut|bildning </span><img src="/submenuBlack.svg" class="expandResultsIcon"><span class="pronunciation notRelevant" style=""><span class="phonetic clickableHeading makeClickableHeadingsStandOut"> [²ụ:tbil:dniŋ] </span></span><span class="PoS notRelevant clickableHeading makeClickableHeadingsStandOut" style="">substantiv<br></span><span class=" notRelevant" lang="sv" dir="ltr" style=""><span><span> (ut|bildning · utbildningen · utbildningar · utbildningarna) </span></span><br></span></div><div class="listenContainer"><div class="pronunciation notRelevant" style=""><div class="soundFiles"><button title="Lyssna på uttalet" type="button" lang="sv" dir="ltr"><div class="listenIcon"></div></button></div></div></div></div><div class="entryContent"><ol class="lexemeList"><li class="lexemeItem"><span lang="sv" dir="ltr" class="meaning notRelevant" style=""><span><span class="longClickLink">undervisning</span><span>, </span><span class="longClickLink">studier</span><span> (</span><span class="longClickLink">ofta</span><span> </span><span class="longClickLink">med</span><span> </span><span class="longClickLink">sikte</span><span> </span><span class="longClickLink">på</span><span> </span><span class="longClickLink">examen</span><span>)</span></span></span><br><div class="compounds"><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Sammansättningar</span><span>: </span></span><ul class="compoundList"><li class=" notRelevant" style=""><span lang="sv" dir="ltr"><span>grund|utbildning</span></span></li><li class=" notRelevant" style=""><span lang="sv" dir="ltr"><span>lärar|utbildning</span></span></li><li><span lang="sv" dir="ltr"><span>special|utbildning</span></span></li><li class=" notRelevant" style=""><span lang="sv" dir="ltr"><span>yrkes|utbildning</span></span></li></ul></div><div class="examples notRelevant" style=""><span lang="sv" dir="ltr"><span class="clickableHeading makeClickableHeadingsStandOut">Exempel</span><span>: </span></span><ul class="exampleList"><li class=" notRelevant" style=""><span lang="sv" dir="ltr"><span>hon ville skaffa sig en högre utbildning</span></span></li></ul></div></li></ol></div></div></li></ul></div></div>
+      </div>
+    </main>
+
+    </div>
+
+
+    <div class="LexinExplanationsWrapper" id="LexinExplanationsWrapper">
+    </div>
+    <footer>
+    <ul>
+      <li> <a href="https://bildtema.isof.se/">Lexin bildtema</a>
+      </li><li> <a href="/lexinanim/">Lexin verbfilmer</a>
+      </li><li> <a href="/dialogteman/">Lexin dialogfilmer</a>
+      </li></ul>
+       <div class="isoflogowrapper">
+       <img alt="​&quot;Vit" logotyp="" isof"="" src="/logotyp-isof.svg">
+</div>
+<ul class="signoff">
+    <li>
+      Lexin publiceras av Institutet för språk och folkminnen.
+    </li>
+</ul>
+<ul class="lp-footer-menu">
+<li>
+<a class="normal" href="https://www.isof.se/vart-uppdrag/om-myndigheten">
+              <span>Om myndigheten Isof</span>                <svg aria-hidden="true" class="lp-icon">
+                  <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/lp-icons.svg#lp-chevron-right"></use>
+                </svg>            </a>
+</li>
+    <li>
+      <a href="https://www.isof.se/vart-uppdrag/om-myndigheten/om-webbplatsen/tillganglighetsredogorelse">Tillgänglighetsredogörelse <svg aria-hidden="true" class="lp-icon">
+                  <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/lp-icons.svg#lp-chevron-right"></use>
+                </svg></a>
+    </li>
+</ul>
+    </footer>
+    
+  
+
+</body>
