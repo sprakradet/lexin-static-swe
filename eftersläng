@@ -9,8 +9,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, shrink-to-fit=no, viewport-fit=cover">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <link rel="canonical" href="https://lexin.se/">
     <link rel="apple-touch-icon" href="/lexin-small.png">
+    <script type="text/javascript" src="/lexin-static.js"></script>
 
     <link rel="stylesheet" href="/settings.css">
   </head>
